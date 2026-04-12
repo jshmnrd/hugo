@@ -29,25 +29,25 @@ I hope this is helpful to you!
 
 ---
 
-### I. Generators
+## I. Generators
 
 Websites that generate content you can use in your campaigns.
 
 
-#### Azgaar's Fantasy Generators
+### Azgaar's Fantasy Generators
 
 + [Azgaar's GitHub](https://github.com/azgaar)
 + [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
 + [Azgaar's Armoria (flag & banner generator)](https://azgaar.github.io/Armoria/)
 
 
-#### Watabou's Procgen Arcana
+### Watabou's Procgen Arcana
 
 + [Official Website](https://watabou.github.io/)
 + [City Generator](https://watabou.github.io/city-generator/)
 
 
-#### Other Generators
+### Other Generators
 
 + [Fantasy Name Generator](https://www.fantasynamegenerators.com/)
 + [Roll for Fantasy](https://rollforfantasy.com/)
@@ -57,7 +57,7 @@ Websites that generate content you can use in your campaigns.
 
 ---
 
-### II. Trackers
+## II. Trackers
 
 Tools for tracking your D&D campaign.
 
@@ -66,7 +66,7 @@ Tools for tracking your D&D campaign.
 
 ---
 
-### Other
+## Other
 
 Other tools.
 
