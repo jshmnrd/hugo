@@ -15,18 +15,15 @@ menu:
         - name: about
           url: about/
           weight: 2 
-        - name: resume
-          url: resume/
-          weight: 3
         - name: d&d
           url: dnd/
           weight: 4
         - name: posts
           url: posts/
-          weight: 5
+          weight: 3
         - name: tags
           url: tags/
-          weight: 6
+          weight: 5
 
 params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
@@ -44,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about","resume","d&d"]
+    MainSections: ["about","posts","d&d"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -62,12 +59,10 @@ params:
           buttons:
             - name: about
               url: about/
-            - name: resume
-              url: resume/
-            - name: d&d
-              url: dnd/
             - name: posts
               url: posts/
+            - name: d&d
+              url: dnd/
             - name: tags
               url: tags/
 
