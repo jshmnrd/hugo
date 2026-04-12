@@ -29,7 +29,7 @@ The files are quite large, so be sure to know what you're about to download. The
 
 ---
 
-#### Player's Handbook (2024)
+### Player's Handbook (2024)
 
 + [Good-Quality - Scan (~ 89MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/PlayersHandbook2024-1.pdf)
 + [High-Quality - AI Upscaled, Bookmarked & Hyperlinked (~ 305MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/PlayersHandbook2024-2-AiUpscaled-Bookmarked-Hyperlinked.pdf)
@@ -37,7 +37,7 @@ The files are quite large, so be sure to know what you're about to download. The
 
 ---
 
-#### Dungeon Master's Guide (2024)
+### Dungeon Master's Guide (2024)
 
 + [High-Quality - Scan (~ 154MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/DungeonMastersGuide2024-1.pdf)
 + [High-Quality - Transcribed scan (~ 147MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/PlayersHandbook2024-2-AiUpscaled-Bookmarked-Hyperlinked.pdf)
@@ -45,7 +45,7 @@ The files are quite large, so be sure to know what you're about to download. The
 
 ---
 
-#### Monster Manual (2024)
+### Monster Manual (2024)
 
 + [High-Quality - Scan with alt. cover (~ 330MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/MonsterManual2024-2-Scanned-AltCover.pdf)
 + [High-Quality - AI Upscaled (~ 329MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/MonsterManual2024-3-AiUpscaled-HighQuality.pdf)

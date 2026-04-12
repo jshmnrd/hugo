@@ -19,34 +19,34 @@ I can work under pressure, meet deadlines, and delegate if/when needed.
 
 ---
 
-### Personal Details
+## Personal Details
 
 **Highest Level of Education:*** Secondary School
 **Total years of experience:** 10
 
 ---
 
-### Work Experience
+## Work Experience
 
-#### Offshore Manager
+### Offshore Manager
 **Headwear Canada** - Mississauga, ON
 _February 2021 to Present_
 
 As the Offshore Manager, I oversee offshore orders from quoting through production and international shipment to Canada, working closely with our factory in China to coordinate timelines, sample approvals and logistics. I design headwear concepts and create mock-ups to help customers visualize their potential order, as well as managing speculative (1-off) samples if/when helpful to a potential sale. I also manage daily marketing e-blasts, I've provided the French translation of our company website for French-speaking customers, and introduced a digital database filing system to improve internal organization and file management.
 
-#### Warehouse Associate
+### Warehouse Associate
 **Amazon Warehouse** - Brampton, ON
 _October 2020 to February 2021_
 
 Scanning and sorting packages, transporting palettes of boxes to proper location (e.g. loading bay, trailer, or storing area).
 
-#### Barista
+### Barista
 **Starbucks** - Markham, ON
 _September 2019 to October 2020_
 
 Preparation of beverages with intimate knowledge of recipes, preparation of food, cleaning of the cafe and running of the cash register. Here I learned how to work under pressure, without mistakes, all while maintaining a professional and welcoming attitude.
 
-#### Martial Arts Instructor
+### Martial Arts Instructor
 **Northern Karate Schools** - Markham, ON
 _September 2016 to September 2019_
 
@@ -54,15 +54,15 @@ Teaching of kata, self-defense and general fitness to children as young as 4 yea
 
 ---
 
-### Education
+## Education
 
-#### High School Diploma
+### High School Diploma
 **Pierre Elliott Trudeau High School** - Markham, ON
 _September 2014 to June 2018_
 
 ---
 
-### Skills
+## Skills
 
 + Microsoft Office
     + Microsoft Outlook
@@ -80,14 +80,14 @@ _September 2014 to June 2018_
 
 ---
 
-### Languages
+## Languages
 
 + English - native speaker
 + French - intermediate
 
 ---
 
-### Certifications & Licenses
+## Certifications & Licenses
 
-#### Driver's License
+### Driver's License
 Standard G license.
