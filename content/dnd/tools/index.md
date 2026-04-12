@@ -70,7 +70,7 @@ Tools for tracking your D&D campaign.
 
 Reference materials.
 
-+ [Books](books/)
++ [Books](dnd/books/)
 + [5e Tools](https://5e.tools/)
 
 ---
