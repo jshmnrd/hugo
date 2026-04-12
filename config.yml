@@ -73,13 +73,15 @@ params:
 
     socialIcons:
         - name: Twitter
-          url: https://twitter.com/bigMoosse
+          url: https://twitter.com/bigMoosse/
         - name: Bluesky
-          url: https://bsky.app/profile/jshmnrd.ca
+          url: https://bsky.app/profile/jshmnrd.ca/
         - name: Mastodon
-          url: https://mstdn.ca/@jshmnrd
+          url: https://mstdn.ca/@jshmnrd/
+        - name: Letterboxd
+          url: https://letterboxd.com/jshmnrd/
         - name: GitHub
-          url: https://github.com/jshmnrd
+          url: https://github.com/jshmnrd/
         - name: LinkedIn
           url: https://www.linkedin.com/in/maynardjoshua/
 
