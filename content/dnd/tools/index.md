@@ -66,7 +66,16 @@ Tools for tracking your D&D campaign.
 
 ---
 
-## Other
+## III. Reference
+
+Reference materials.
+
++ [Books](books/)
++ [5e Tools](https://5e.tools/)
+
+---
+
+## IV. Other
 
 Other tools.
 
