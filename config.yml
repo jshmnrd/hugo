@@ -14,16 +14,16 @@ menu:
     main:
         - name: About
           url: about/
-          weight: 5 
+          weight: 2 
         - name: Resume
           url: resume/
-          weight: 2
+          weight: 3
         - name: D&D
           url: dnd/
-          weight: 3
+          weight: 4
         - name: Tags
           url: tags/
-          weight: 4 
+          weight: 5 
 
 params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
@@ -53,7 +53,7 @@ params:
           enabled: true
           title: Joshua Maynard
           subtitle: "I am a 25 year old from Toronto, Canada. I'm a geek. I love movies, TV, Dungeons & Dragons and pretty much anything computer-related."
-          imageUrl: "https://pub.jshmnrd.ca/logo/taro-transparent.gif"
+          imageUrl: "jm-transparent.PNG"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -77,6 +77,8 @@ params:
           url: https://mstdn.ca/@jshmnrd
         - name: GitHub
           url: https://github.com/jshmnrd
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/maynardjoshua/
 
     assets:
         disableScrollBarStyle: true
