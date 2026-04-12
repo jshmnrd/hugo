@@ -2,7 +2,6 @@
 title: "Resume"
 description: "My Resume"
 tags: ["resume"]
-author: ["Joshua Maynard"]
 editPost:
     URL: "https://www.linkedin.com/in/maynardjoshua/"
     Text: "Connect with me on LinkedIn"

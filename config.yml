@@ -12,18 +12,21 @@ taxonomies:
 
 menu:
     main:
-        - name: About
+        - name: about
           url: about/
           weight: 2 
-        - name: Resume
+        - name: resume
           url: resume/
           weight: 3
-        - name: D&D
+        - name: d&d
           url: dnd/
           weight: 4
-        - name: Tags
+        - name: posts
+          url: posts/
+          weight: 5
+        - name: tags
           url: tags/
-          weight: 5 
+          weight: 6
 
 params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
@@ -57,16 +60,16 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: About
+            - name: about
               url: about/
-            - name: Resume
+            - name: resume
               url: resume/
-            - name: D&D
+            - name: d&d
               url: dnd/
-            - name: Tags
+            - name: posts
+              url: posts/
+            - name: tags
               url: tags/
-            - name: Archive
-              url: archive/
 
     socialIcons:
         - name: Twitter
