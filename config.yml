@@ -43,7 +43,7 @@ params:
     ShowAllPagesInArchive: false
     MainSections: ["about","posts","d&d"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
