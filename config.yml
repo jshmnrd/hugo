@@ -30,7 +30,7 @@ params:
     author: Joshua Maynard
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: auto
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
