@@ -6,16 +6,16 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --gray: rgb(165, 165, 165);
-    --content: rgb(30, 30, 30);
-    --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --theme: rgb(29, 30, 32); /* originally rgb(255, 255, 255) */
+    --entry: rgb(46, 46, 51); /* originally rgb(255, 255, 255) */
+    --primary: rgb(218, 218, 219); /* originally rgb(30, 30, 30) */
+    --secondary: rgb(155, 156, 157); /* originally rgb(108, 108, 108) */
+    --tertiary: rgb(65, 66, 68); /* originally rgb(214, 214, 214) */
+    --gray: rgb(165, 165, 165); /* UNCHANGED */
+    --content: rgb(196, 196, 197); /* originally rgb(30, 30, 30) */
+    --code-block-bg: rgb(46, 46, 51); /* originally rgb(28, 29, 33) */
+    --code-bg: rgb(55, 56, 62); /* originally rgb(245, 245, 245) */
+    --border: rgb(51, 51, 51); /* originally rgb(238, 238, 238) */
     --darkcolor: #6a7ba2;
     --lightcolor: #cbd1de;
     --semibold: 500;
