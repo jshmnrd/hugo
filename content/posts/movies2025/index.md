@@ -12,7 +12,7 @@ cover:
 editPost:
     URL: "https://letterboxd.com/jshmnrd/"
     Text: "Follow me on Letterboxd"
-showToc: false
+showToc: true
 disableAnchoredHeadings: false
 ---
 
