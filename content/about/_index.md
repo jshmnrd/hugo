@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "About Joshua Maynard"
+ShowBreadCrumbs: false
 ---
 
 # Hi ✌️
