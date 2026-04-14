@@ -14,7 +14,7 @@ editPost:
     Text: "Covert art by Envar Studio on Artstation"
 showToc: false
 disableAnchoredHeadings: false
-
+ShowPostNavLinks: false
 ---
 
 ---

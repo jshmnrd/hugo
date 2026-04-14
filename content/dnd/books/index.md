@@ -14,7 +14,7 @@ editPost:
     Text: "Cover art by Andreas Rocha (Artstation)"
 showToc: false
 disableAnchoredHeadings: false
-
+ShowPostNavLinks: false
 ---
 
 ---

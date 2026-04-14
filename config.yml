@@ -32,24 +32,25 @@ params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
     author: Joshua Maynard
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "02 Jan, 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: false
-    ShowShareButtons: false
+    ShowShareButtons: true
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+    ShowRssButtonInSectionTermList: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
+    ShowAllPagesInArchive: true
     MainSections: ["about","posts","d&d"]
     ShowToc: false
     disableScrollToTop: false
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
+    TocOpen: false
+    ShowWordCount: true
+    # UseHugoToc: true
     comments: false
     math: true
     profileMode:
@@ -68,8 +69,6 @@ params:
               url: dnd/
             - name: tags
               url: tags/
-            - name: search
-              url: search/
 
     socialIcons:
         - name: Twitter
