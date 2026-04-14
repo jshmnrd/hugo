@@ -15,6 +15,7 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
+ShowWordCount: true
 ---
 
 # Introduction: Welcome to Adventure

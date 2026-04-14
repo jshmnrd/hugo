@@ -14,6 +14,7 @@ editPost:
     Text: "Follow me on Letterboxd"
 showToc: true
 disableAnchoredHeadings: false
+ShowWordCount: true
 ---
 
 #### Introduction

@@ -15,6 +15,7 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
+ShowWordCount: true
 ---
 
 # Chapter 1: The Basics

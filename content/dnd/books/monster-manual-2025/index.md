@@ -15,6 +15,7 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
+ShowWordCount: true
 ---
 
 # How to Use a Monster
