@@ -1,6 +1,7 @@
 ---
 title: "Dungeons & Dragons"
 description: "Dungeons & Dragons Resources"
+ShowBreadCrumbs: false
 ---
 
 # Dungeons & Dragons

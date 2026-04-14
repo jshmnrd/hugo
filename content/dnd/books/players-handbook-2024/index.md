@@ -7,7 +7,7 @@ description: "A markdown copy of the Dungeons & Dragons Player's Handbook from 2
 summary: "A markdown copy of the Dungeons & Dragons Player's Handbook from 2024."
 cover:
     image: "players-handbook-2024-cover-cropped.jpg"
-    alt: "Dungeons & Dragons Books"
+    alt: "Player's Handbook Cover, cropped"
     relative: true
 editPost:
     URL: "https://5e.tools/book.html#xphb"
@@ -102,7 +102,7 @@ The worlds of the multiverse share characteristics, but each world is set apart 
 
 # Chapter 1: Playing the Game
 
-![While adventuring in the Dragonlance setting, the siblings Caramon Majere, Raistlin Majere, and Kitiara uth Matar provoke the rage of a wyvern](img/book/XPHB/000-01-013.opening-art.webp)
+![While adventuring in the Dragonlance setting, the siblings Caramon Majere, Raistlin Majere, and Kitiara uth Matar provoke the rage of a wyvern](https://5e.tools/img/book/XPHB/000-01-013.opening-art.webp#center
 
 Imagination is a key ingredient of Dungeons & Dragons, a cooperative game in which the characters that you roleplay embark on adventures together in fantasy worlds filled with monsters and magic.
 
@@ -189,7 +189,7 @@ As with adventures, a DM might create a campaign from scratch, assemble a campai
 
 Dice add randomness to the game. They help determine whether characters and monsters are successful at the things they attempt.
 
-![From left to right: {@dice D4}, {@dice D6}, {@dice D8}, {@dice D10} (ones digit), {@dice D10} (tens digit), {@dice D12}, {@dice D20}](img/book/XPHB/001-01-002.dice.webp)
+![From left to right: {@dice D4}, {@dice D6}, {@dice D8}, {@dice D10} (ones digit), {@dice D10} (tens digit), {@dice D12}, {@dice D20}](https://5e.tools/img/book/XPHB/001-01-002.dice.webp#center
 
 > ##### Round Down
 >
@@ -301,7 +301,7 @@ When the outcome of an action is uncertain, the game uses a d20 roll to determin
   - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
 - **Compare the Total to a Target Number.** If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an Armor Class (AC), which appears on a character sheet or in a stat block.
 
-![A {@variantrule D20 Test|XPHB} can result in a dramatic success, a simple accomplishment, or a catastrophe](img/book/XPHB/002-01-003.d20-test.webp)
+![A {@variantrule D20 Test|XPHB} can result in a dramatic success, a simple accomplishment, or a catastrophe](https://5e.tools/img/book/XPHB/002-01-003.d20-test.webp#center
 
 ### Ability Checks
 
@@ -408,7 +408,7 @@ If you roll a 1 on the d20 (a "natural 1") for an attack roll, the attack misses
 
 ### Advantage/Disadvantage
 
-![If you have Advantage, use the 18 If you have Disadvantage, use the 3](img/book/XPHB/003-01-004.advantage-disadvantage.webp)
+![If you have Advantage, use the 18 If you have Disadvantage, use the 3](https://5e.tools/img/book/XPHB/003-01-004.advantage-disadvantage.webp#center
 
 Sometimes a D20 Test is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while Disadvantage reflects negative circumstances.
 
@@ -571,7 +571,7 @@ In terms of timing, a Reaction takes place immediately after its trigger unless 
 
 ## Social Interaction
 
-![Characters lay on the charm while bartering for magic items with a green hag](img/book/XPHB/004-01-005.adventurers-bartering.webp)
+![Characters lay on the charm while bartering for magic items with a green hag](https://5e.tools/img/book/XPHB/004-01-005.adventurers-bartering.webp#center
 
 During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it's time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.
 
@@ -599,7 +599,7 @@ Pay attention to your skill proficiencies when thinking of how you will interact
 
 ### Social Interaction Example
 
-![](img/book/XPHB/005-01-006.social-interaction-example.webp)
+![](https://5e.tools/img/book/XPHB/005-01-006.social-interaction-example.webp#center
 
 In this scene, players engage in a social interaction encounter. You and your group determine how similar scenes play out in your adventures.
 
@@ -689,7 +689,7 @@ See *chapter 6* for rules on many items that are useful on adventures. The items
 
 ### Vision and Light
 
-![](img/book/XPHB/006-01-007.obscured-exploration.webp)
+![](https://5e.tools/img/book/XPHB/006-01-007.obscured-exploration.webp#center
 
 Some adventuring tasks—such as noticing danger, hitting an enemy, and targeting certain spells—are affected by sight, so effects that obscure vision can hinder you, as explained below.
 
@@ -797,7 +797,7 @@ Travelers in wagons, carriages, or other land vehicles choose a pace as normal. 
 
 This scene finds the player characters investigating a mysterious and potentially dangerous location. They're moving through the environment and interacting with things they find there.
 
-![](img/book/XPHB/007-01-008.exploration-example.webp)
+![](https://5e.tools/img/book/XPHB/007-01-008.exploration-example.webp#center
 
 *The characters are exploring Castle Ravenloft, and the DM describes the room the characters have entered*.
 
@@ -892,7 +892,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 ## Combat
 
-![](img/book/XPHB/008-01-009.adventurers-in-combat.webp)
+![](https://5e.tools/img/book/XPHB/008-01-009.adventurers-in-combat.webp#center
 
 Adventurers encounter many dangerous monsters and nefarious villains. In those moments, combat often breaks out.
 
@@ -942,7 +942,7 @@ Combat ends when one side or the other is defeated, which can mean the creatures
 
 ### Movement and Position
 
-![Creatures occupy spaces of varying sizes. This Displacer Beast occupies a 10-by-10-foot space, while the adventurers occupy 5-by-5-foot spaces](img/book/XPHB/009-01-010.displacer-beast-combat.webp)
+![Creatures occupy spaces of varying sizes. This Displacer Beast occupies a 10-by-10-foot space, while the adventurers occupy 5-by-5-foot spaces](https://5e.tools/img/book/XPHB/009-01-010.displacer-beast-combat.webp#center
 
 On your turn, you can move a distance equal to your Speed or less. Or you can decide not to move.
 
@@ -1066,7 +1066,7 @@ Combatants watch for enemies to drop their guard. If you move heedlessly past yo
 
 ### Mounted Combat
 
-![Astride a giant seahorse, a paladin adventures underwater](img/book/XPHB/010-01-011.giant-seahorse-mount.webp)
+![Astride a giant seahorse, a paladin adventures underwater](https://5e.tools/img/book/XPHB/010-01-011.giant-seahorse-mount.webp#center
 
 A willing creature that is at least one size larger than a rider and that has an appropriate anatomy can serve as a mount, using the following rules.
 
@@ -1401,14 +1401,14 @@ In this scene, threats force a group of adventurers into battle. This example de
 >Gareth's Sear Undead is a class feature (see *chapter 3*). As with Mirabella's *Thunderwave* spell, Sear Undead forces the skeletons to make a saving throw.
 >
 
-![](img/book/XPHB/011-01-012.combat-example.webp)
+![](https://5e.tools/img/book/XPHB/011-01-012.combat-example.webp#center
 
 
 ------
 
 # Chapter 2: Creating a Character
 
-![World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure](img/book/XPHB/012-02-001.world-traveling-explorers.webp)
+![World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure](https://5e.tools/img/book/XPHB/012-02-001.world-traveling-explorers.webp#center
 
 You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as *Fighter* or *Wizard*), a background (such as *Sailor* or *Acolyte*), and a species (such as *Human* or *Elf*). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
 
@@ -1524,7 +1524,7 @@ Your background and class both provide starting equipment. Any coins that you ga
 
 Record your chosen equipment on your character sheet. Equipment is described in *chapter 6*, but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
-![Consider how your choices combine to set your character on the path to adventure](img/book/XPHB/013-02-002.character-choices.webp)
+![Consider how your choices combine to set your character on the path to adventure](https://5e.tools/img/book/XPHB/013-02-002.character-choices.webp#center
 
 #### Choose a Species
 
@@ -1666,7 +1666,7 @@ Ability scores are an essential part of the rules, but they can be more than tha
 
 Note your character's appearance and personality on your character sheet.
 
-![](img/book/XPHB/014-02-003.strength-icon.webp)
+![](https://5e.tools/img/book/XPHB/014-02-003.strength-icon.webp#center
 
 ##### Strength
 | 1d4 | High Strength |  Low Strength  |
@@ -1676,7 +1676,7 @@ Note your character's appearance and personality on your character sheet.
 |  3  |   Protective  | Self-conscious |
 |  4  |     Direct    |    Indirect    |
 
-![](img/book/XPHB/015-02-004.dexterity-icon.webp)
+![](https://5e.tools/img/book/XPHB/015-02-004.dexterity-icon.webp#center
 
 ##### Dexterity
 | 1d4 | High Dexterity | Low Dexterity |
@@ -1686,7 +1686,7 @@ Note your character's appearance and personality on your character sheet.
 |  3  |     Fidgety    |    Hesitant   |
 |  4  |     Poised     |    Unsteady   |
 
-![](img/book/XPHB/016-02-005.constitution-icon.webp)
+![](https://5e.tools/img/book/XPHB/016-02-005.constitution-icon.webp#center
 
 ##### Constitution
 | 1d4 | High Constitution | Low Constitution |
@@ -1696,7 +1696,7 @@ Note your character's appearance and personality on your character sheet.
 |  3  |       Hearty      |     Lethargic    |
 |  4  |       Stable      |      Fragile     |
 
-![](img/book/XPHB/017-02-006.intelligence-icon.webp)
+![](https://5e.tools/img/book/XPHB/017-02-006.intelligence-icon.webp#center
 
 ##### Intelligence
 | 1d4 | High Intelligence | Low Intelligence |
@@ -1706,7 +1706,7 @@ Note your character's appearance and personality on your character sheet.
 |  3  |    Informative    |    Uninformed    |
 |  4  |      Curious      |     Frivolous    |
 
-![](img/book/XPHB/018-02-007.wisdom-icon.webp)
+![](https://5e.tools/img/book/XPHB/018-02-007.wisdom-icon.webp#center
 
 ##### Wisdom
 | 1d4 | High Wisdom | Low Wisdom |
@@ -1716,7 +1716,7 @@ Note your character's appearance and personality on your character sheet.
 |  3  |  Attentive  |  Oblivious |
 |  4  |     Wary    |    Naive   |
 
-![](img/book/XPHB/019-02-008.charisma-icon.webp)
+![](https://5e.tools/img/book/XPHB/019-02-008.charisma-icon.webp#center
 
 ##### Charisma
 | 1d4 | High Charisma | Low Charisma |
@@ -1738,7 +1738,7 @@ A creature's alignment broadly describes its ethical attitudes and ideals. Align
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
-![Alignments might be visualized as a grid like this—along with creatures that embody those alignments](img/book/XPHB/020-02-009.alignments.webp)
+![Alignments might be visualized as a grid like this—along with creatures that embody those alignments](https://5e.tools/img/book/XPHB/020-02-009.alignments.webp#center
 
 ***Lawful Good (LG).*** Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
 
@@ -1866,7 +1866,7 @@ As you finish creating your character, consider whether you'd like to make up an
 
 ## Level Advancement
 
-![Adventuring equipment improves as a character progresses through the tiers of play](img/book/XPHB/021-02-010.adventuring-equipment.webp)
+![Adventuring equipment improves as a character progresses through the tiers of play](https://5e.tools/img/book/XPHB/021-02-010.adventuring-equipment.webp#center
 
 While going on adventures, your character gains experience, represented by Experience Points (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
@@ -2052,7 +2052,7 @@ For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a leve
 
 ***Pact Magic.*** If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
-![A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron](img/book/XPHB/022-02-011.paladin-warlock-multiclass.webp)
+![A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron](https://5e.tools/img/book/XPHB/022-02-011.paladin-warlock-multiclass.webp#center
 
 ## Trinkets
 
@@ -2063,11 +2063,11 @@ When you make your character, you can roll once on the *Trinkets* table to gain 
 
 # Chapter 3: Character Classes
 
-![The heroes Mercion, Molliver, Strongheart, and Ringlerun protect a portal to another plane from diabolical invaders](img/book/XPHB/025-03-050.opening-art.webp)
+![The heroes Mercion, Molliver, Strongheart, and Ringlerun protect a portal to another plane from diabolical invaders](https://5e.tools/img/book/XPHB/025-03-050.opening-art.webp#center
 
 Character class provides a character's most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.
 
-![](img/book/XPHB/026-03-002.barbarian-symbol.webp)
+![](https://5e.tools/img/book/XPHB/026-03-002.barbarian-symbol.webp#center
 
 ***Barbarian.*** Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the...
 
@@ -2076,7 +2076,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Path of the World Tree to tap into cosmic vitality.
 - Path of the Zealot to rage in union with a god.
 
-![](img/book/XPHB/027-03-003.bard-symbol.webp)
+![](https://5e.tools/img/book/XPHB/027-03-003.bard-symbol.webp#center
 
 ***Bard.*** Perform spells that inspire and heal allies or beguile foes. Then join the College of...
 
@@ -2085,7 +2085,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - College of Lore to collect knowledge and magical secrets.
 - College of Valor to wield weapons with spells.
 
-![](img/book/XPHB/028-03-004.cleric-symbol.webp)
+![](https://5e.tools/img/book/XPHB/028-03-004.cleric-symbol.webp#center
 
 ***Cleric.*** Invoke divine magic to heal, bolster, and smite. Then harness the...
 
@@ -2094,7 +2094,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Trickery Domain to bedevil foes with mischief.
 - War Domain to inspire valor and chastise foes.
 
-![](img/book/XPHB/029-03-005.druid-symbol.webp)
+![](https://5e.tools/img/book/XPHB/029-03-005.druid-symbol.webp#center
 
 ***Druid.*** Channel nature magic to heal, shape-shift, and control the elements. Then join the Circle of the...
 
@@ -2103,7 +2103,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Circle of the Sea to channel tides and storms.
 - Circle of the Stars to gain powers in a starry form.
 
-![](img/book/XPHB/030-03-006.fighter-symbol.webp)
+![](https://5e.tools/img/book/XPHB/030-03-006.fighter-symbol.webp#center
 
 ***Fighter.*** Master all weapons and armor. Then embody the...
 
@@ -2112,7 +2112,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Eldritch Knight to learn spells to aid in combat.
 - Psi Warrior to augment attacks with psionic power.
 
-![](img/book/XPHB/031-03-007.monk-symbol.webp)
+![](https://5e.tools/img/book/XPHB/031-03-007.monk-symbol.webp#center
 
 ***Monk.*** Dart in and out of melee while striking fast and hard. Then become a Warrior of...
 
@@ -2121,7 +2121,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Warrior of the Elements to wield elemental power.
 - Warrior of the Open Hand to master unarmed combat.
 
-![](img/book/XPHB/032-03-008.paladin-symbol.webp)
+![](https://5e.tools/img/book/XPHB/032-03-008.paladin-symbol.webp#center
 
 ***Paladin.*** Smite foes and shield allies with divine and martial might. Then swear the Oath of...
 
@@ -2130,7 +2130,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Oath of the Ancients to preserve life, joy, and nature.
 - Oath of Vengeance to hunt down evildoers.
 
-![](img/book/XPHB/033-03-009.ranger-symbol.webp)
+![](https://5e.tools/img/book/XPHB/033-03-009.ranger-symbol.webp#center
 
 ***Ranger.*** Weave together martial prowess, nature magic, and survival skills. Then embody the...
 
@@ -2139,7 +2139,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Gloom Stalker to hunt foes that lurk in darkness.
 - Hunter to protect nature with martial versatility.
 
-![](img/book/XPHB/034-03-010.rogue-symbol.webp)
+![](https://5e.tools/img/book/XPHB/034-03-010.rogue-symbol.webp#center
 
 ***Rogue.*** Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the...
 
@@ -2148,7 +2148,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Soulknife to strike foes with psi blades.
 - Thief to master infiltration and treasure hunting.
 
-![](img/book/XPHB/035-03-011.sorcerer-symbol.webp)
+![](https://5e.tools/img/book/XPHB/035-03-011.sorcerer-symbol.webp#center
 
 ***Sorcerer.*** Wield magic innate to your being, shaping the power to your will. Then channel...
 
@@ -2157,7 +2157,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Draconic Sorcery to breathe the magic of dragons.
 - Wild Magic Sorcery to unleash chaos magic.
 
-![](img/book/XPHB/036-03-012.warlock-symbol.webp)
+![](https://5e.tools/img/book/XPHB/036-03-012.warlock-symbol.webp#center
 
 ***Warlock.*** Cast spells derived from occult knowledge. Then form a pact with the...
 
@@ -2166,7 +2166,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 - Fiend Patron to call on sinister powers.
 - Great Old One Patron to delve into forbidden lore.
 
-![](img/book/XPHB/037-03-013.wizard-symbol.webp)
+![](https://5e.tools/img/book/XPHB/037-03-013.wizard-symbol.webp#center
 
 ***Wizard.*** Study arcane magic and master spells for every purpose. Then embody the...
 
@@ -2180,7 +2180,7 @@ Character class provides a character's most exciting capabilities. This chapter 
 
 # Chapter 4: Character Origins
 
-![Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr](img/book/XPHB/127-05-001.laeral-drizzt-vajra.webp)
+![Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr](https://5e.tools/img/book/XPHB/127-05-001.laeral-drizzt-vajra.webp#center
 
 This chapter describes the two components of an adventurer's origin: *background* and *species*. Together, these elements suggest your character's early experience and family origin before taking up the adventuring life and learning the capabilities of a class (described in *chapter 3*).
 
@@ -2257,14 +2257,14 @@ Sixteen backgrounds are presented in this section in alphabetical order:
 
 Ten species are presented in this section in alphabetical order: Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, and Tiefling.
 
-![](img/book/XPHB/153-05-027.map-decoration.webp)
+![](https://5e.tools/img/book/XPHB/153-05-027.map-decoration.webp#center
 
 
 ------
 
 # Chapter 5: Feats
 
-![The Weathermay-Foxgrove Twins, Gennifer and Laurie, along with the investigators Alanik Ray and Arthur Sedgwick, fight to escape the horrors of Castle Ravenloft](img/book/XPHB/158-06-001.weathermay-foxgrove-alanik-arthur.webp)
+![The Weathermay-Foxgrove Twins, Gennifer and Laurie, along with the investigators Alanik Ray and Arthur Sedgwick, fight to escape the horrors of Castle Ravenloft](https://5e.tools/img/book/XPHB/158-06-001.weathermay-foxgrove-alanik-arthur.webp#center
 
 This chapter offers a collection of feats, which are special features not tied to a character class. A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
@@ -2470,7 +2470,7 @@ These feats are in the Epic Boon category.
 
 # Chapter 6: Equipment
 
-![In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!](img/book/XPHB/168-07-001.inventor-vi.webp)
+![In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!](https://5e.tools/img/book/XPHB/168-07-001.inventor-vi.webp#center
 
 The right equipment can make the difference between success and failure for adventurers. This chapter provides rules and prices for weapons, armor, and other kinds of equipment that characters might purchase or find. The DM lets you know if a shop has an item for sale and whether it's available at the listed price.
 
@@ -2550,13 +2550,13 @@ The Weapons table in this section shows the game's main weapons. The table lists
 | *Musket*                 | 1d12 Piercing   | Ammunition (Range 40/120; Bullet), Loading, Two-Handed       |   Slow  |  10 lb. | 500 GP |
 | *Pistol*                 | 1d10 Piercing   | Ammunition (Range 30/90; Bullet), Loading                    |   Vex   |  3 lb.  | 250 GP |
 
-![Simple Melee Weapons](img/book/XPHB/169-07-058.simple-melee.webp)
+![Simple Melee Weapons](https://5e.tools/img/book/XPHB/169-07-058.simple-melee.webp#center
 
-![Simple Ranged Weapons](img/book/XPHB/170-07-059.simple-range.webp)
+![Simple Ranged Weapons](https://5e.tools/img/book/XPHB/170-07-059.simple-range.webp#center
 
-![Martial Melee Weapons](img/book/XPHB/171-07-061.martial-melee.webp)
+![Martial Melee Weapons](https://5e.tools/img/book/XPHB/171-07-061.martial-melee.webp#center
 
-![Martial Ranged Weapons](img/book/XPHB/172-07-060.martial-range.webp)
+![Martial Ranged Weapons](https://5e.tools/img/book/XPHB/172-07-060.martial-range.webp#center
 
 ### Weapon Proficiency
 
@@ -2679,11 +2679,11 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 | *Shield (Utilize Action to Don or Doff)*                |
 | *Shield*                                                | +2                        | —        | —            |  6 lb. |    10 GP |
 
-![Light Armor and Shields](img/book/XPHB/173-07-062.light-armor-and-shields.webp)
+![Light Armor and Shields](https://5e.tools/img/book/XPHB/173-07-062.light-armor-and-shields.webp#center
 
-![Medium Armor](img/book/XPHB/174-07-063.medium-armor.webp)
+![Medium Armor](https://5e.tools/img/book/XPHB/174-07-063.medium-armor.webp#center
 
-![Heavy Armor](img/book/XPHB/175-07-064.heavy-armor.webp)
+![Heavy Armor](https://5e.tools/img/book/XPHB/175-07-064.heavy-armor.webp#center
 
 ### Armor Training
 
@@ -2719,7 +2719,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 - **Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see "*Crafting Equipment*" later in the chapter.
 - **Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.
 
-![](img/book/XPHB/176-07-002.tools.webp)
+![](https://5e.tools/img/book/XPHB/176-07-002.tools.webp#center
 
 ### Tool Proficiency
 
@@ -2909,7 +2909,7 @@ These tools support adventure and other pursuits.
 
 ## Adventuring Gear
 
-![A Warlock channels magic through an Arcane Focus](img/book/XPHB/177-07-003.arcane-focus.webp)
+![A Warlock channels magic through an Arcane Focus](https://5e.tools/img/book/XPHB/177-07-003.arcane-focus.webp#center
 
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
@@ -3217,7 +3217,7 @@ A Lamp burns *Oil* as fuel to cast Bright Light in a 15-foot radius and Dim Ligh
 
 A Bullseye Lantern burns *Oil* as fuel to cast Bright Light in a 60-foot Cone and Dim Light for an additional 60 feet.
 
-![Lamp and Net](img/book/XPHB/178-07-004.lamp-net.webp)
+![Lamp and Net](https://5e.tools/img/book/XPHB/178-07-004.lamp-net.webp#center
 
 #### Lantern, Hooded (5 GP)
 
@@ -3369,7 +3369,7 @@ A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light
 
 A Vial holds up to 4 ounces.
 
-![](img/book/XPHB/179-07-005.adventurer-with-tools.webp)
+![](https://5e.tools/img/book/XPHB/179-07-005.adventurer-with-tools.webp#center
 
 #### Waterskin (2 SP)
 
@@ -3455,7 +3455,7 @@ Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 H
 
 ## Services
 
-![A Wizard and her familiar spend an afternoon shopping](img/book/XPHB/180-07-006.wizard-familiar-shopping.webp)
+![A Wizard and her familiar spend an afternoon shopping](https://5e.tools/img/book/XPHB/180-07-006.wizard-familiar-shopping.webp#center
 
 This section outlines services and other expenses that adventurers might spend money on.
 
@@ -3670,7 +3670,7 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 # Chapter 7: Spells
 
-![Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane](img/book/XPHB/181-08-001.jallarzi-mordenkainen-bigby.webp)
+![Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane](https://5e.tools/img/book/XPHB/181-08-001.jallarzi-mordenkainen-bigby.webp#center
 
 This chapter gives rules for casting spells. It also includes *descriptions* of common spells in the worlds of Dungeons & Dragons. Those spells are used by many class features, magic items, and monsters.
 
@@ -3786,7 +3786,7 @@ If a spell has movable effects, they aren't restricted by its range unless the s
 
 ### Components
 
-![An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold](img/book/XPHB/182-08-002.aasimar-wizard.webp)
+![An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold](https://5e.tools/img/book/XPHB/182-08-002.aasimar-wizard.webp#center
 
 A spell's components are physical requirements the spellcaster must meet to cast the spell. Each spell's description indicates whether it requires Verbal (V), Somatic (S), or Material (M) components. If the spellcaster can't provide one or more of a spell's components, the spellcaster can't cast the spell.
 
@@ -3831,7 +3831,7 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ***Areas of Effect.*** Some spells, such as *Thunderwave*, cover an area called an area of effect, which is defined in the *rules glossary*. The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: Cone, Cube, Cylinder, Emanation, Line, or Sphere.
 
-![](img/book/XPHB/183-08-003.areas-of-effect.webp)
+![](https://5e.tools/img/book/XPHB/183-08-003.areas-of-effect.webp#center
 
 ***Awareness of Being Targeted.*** Unless a spell has a perceptible effect, a creature doesn't know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell's description says otherwise.
 
@@ -4286,7 +4286,7 @@ The spells are presented in alphabetical order.
 
 This appendix provides an overview of the multiverse, the overarching reality that encompasses D&D's countless worlds and adventures. These realms are explored in greater detail in the *Dungeon Master's Guide*, along with other planes like the Far Realm, Negative Plane, and Positive Plane.
 
-![](img/book/XPHB/231-10-001.the-multiverse.webp)
+![](https://5e.tools/img/book/XPHB/231-10-001.the-multiverse.webp#center
 
 ## The Material Realms
 
@@ -4455,7 +4455,7 @@ The glossary uses the following conventions:
 | Wis. | Wisdom              |
 |   XP | Experience Point(s) |
 
-![](img/book/XPHB/246-12-001.dungeon-border.webp)
+![](https://5e.tools/img/book/XPHB/246-12-001.dungeon-border.webp#center
 
 ## Rules Definitions
 
@@ -7261,6 +7261,6 @@ Here are definitions of various rules.
   - **Based on the Player's Handbook (2014) designed by:** Jeremy Crawford (lead), Bruce R. Cordell, Tom LaPille, Peter Lee, Mike Mearls, Robert J. Schwalb, Rodney Thompson, James Wyatt
   - **Building on the original game created by:** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years
 
-![](img/book/XPHB/credits.webp)
+![](https://5e.tools/img/book/XPHB/credits.webp#center
 
-![On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.](img/book/XPHB/credits2.webp)![On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.](img/book/XPHB/credits3.webp)
+![On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.](https://5e.tools/img/book/XPHB/credits2.webp#center![On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.](https://5e.tools/img/book/XPHB/credits3.webp#center
