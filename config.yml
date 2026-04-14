@@ -72,8 +72,6 @@ params:
               url: dnd/
             - name: tags
               url: tags/
-            - name: archive
-              url: archive/
 
     socialIcons:
         - name: Twitter
