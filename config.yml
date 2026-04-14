@@ -26,6 +26,9 @@ menu:
           weight: 5
         - name: search
           url:  search/
+          weight: 7
+        - name: archive
+          url: archive/
           weight: 6
 
 params:
@@ -69,6 +72,8 @@ params:
               url: dnd/
             - name: tags
               url: tags/
+            - name: archive
+              url: archive/
 
     socialIcons:
         - name: Twitter
