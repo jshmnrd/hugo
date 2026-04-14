@@ -1,7 +1,7 @@
 ---
 title: "Dungeons & Dragons Books"
 description: "Dungeons & Dragons Books"
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 cover:
     image: "andreas-rocha-readershall01.jpg"
     alt: "Dungeons & Dragons Books"
