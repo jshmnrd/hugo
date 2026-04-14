@@ -12,7 +12,7 @@ cover:
 editPost:
     URL: "https://www.artstation.com/artwork/b5RdeG"
     Text: "Covert art by Envar Studio on Artstation"
-showToc: false
+showToc: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
 ---

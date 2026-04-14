@@ -32,7 +32,7 @@ params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
     author: Joshua Maynard
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "02 Jan, 2006"
+    DateFormat: "02 Jan 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: false
