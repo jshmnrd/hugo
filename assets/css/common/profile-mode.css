@@ -43,6 +43,6 @@
 }
 
 .button:hover {
-    background: var(--lightcolor);
+    background: var(--primary); /* originally --lightcolor */
     color: var(--tertiary); /*added*/
 }
