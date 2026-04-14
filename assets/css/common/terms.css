@@ -14,7 +14,6 @@
 }
 
 .terms-tags a:hover {
-    background: var(--primary); /* originally --lightcolor */
-    color: var(--tertiary); /*added*/
+    background: var(--lightcolor);
 }
 
