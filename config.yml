@@ -28,7 +28,7 @@ menu:
           url:  search/
           weight: 7
         - name: archive
-          url: /archive/
+          url: archives/
           weight: 6
 
 params:
