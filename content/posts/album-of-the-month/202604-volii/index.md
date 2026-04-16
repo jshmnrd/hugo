@@ -28,11 +28,11 @@ ShowWordCount: false
 
 ## Track 1: Fabienk ★
 
-![Sebastien!](sebastien.gif)
+![Sebastien!](sebastien.gif#center)
 
 This is my anthem this month. I especially like the second half of the song, where the bass seems to like walk back on itself, sort of...not sure exactly how to describe it but it itches a very specific itch. This song makes me move like none other - like full-body bouncing along to the song.
 
-![John Cena bopping to song](john-cena-bopping.gif)
+![John Cena bopping to song](john-cena-bopping.gif#center)
 
 ## Track 2: Mata Zyklek
 
@@ -44,7 +44,7 @@ I'll be honest, this one isn't my favourite, but I still enjoyed it.
 
 ## Track 3: Sarniezz
 
-![AdP Boppin](adp-boppin.gif)
+![AdP Boppin](adp-boppin.gif#center)
 
 The first song most of us ever heard, played first in their [viral KEXP set](https://youtu.be/0Ssi-9wS1so?si=bIxkKtSND087QZOZ). Also not released as a single, unreleased when I first discovered AdP, I wanted to be able to listen to this song on Spotify *so* bad.
 
@@ -56,7 +56,7 @@ This one, to me, was overwhelming. If there's one song on this album I disliked,
 
 I can't help but get like James Bond vibes from this song - I don't really know why, I just do. Maybe it's the calm, then suspense, then calm, then suspense. I'd like to see it edited over a 007 action/chase scene. Also the rhythm-heavy last minute of the song made me headbang big time!
 
-![Headbanging](headbanging.gif)
+![Headbanging](headbanging.gif#center)
 
 ## Track 6: Angor
 
@@ -66,4 +66,4 @@ Dun dun dun dun dun dun dun dun dun...  great song for focus actually - the rhyt
 
 I think this album and this band will go down in history. Their unique sound is unmatched in my opinion, and their virality and timing of it will mean this band is never forgotten. In a time when AI is super-saturating the world with generated garbage, Angine de Poitrine feels like spitting in the face of our 'AI overlords' - and I'm here for it!
 
-![Angine de Poitriiiiiinne!](adp-triangle-hands.png)
+![Angine de Poitriiiiiinne!](adp-triangle-hands.png#center)
