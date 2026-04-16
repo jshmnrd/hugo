@@ -55,7 +55,7 @@ This one, to me, was overwhelming. If there's one song on this album I disliked,
 
 I can't help but get like James Bond vibes from this song - I don't really know why, I just do. Maybe it's the calm, then suspense, then calm, then suspense. I'd like to see it edited over a 007 action/chase scene. Also the rhythm-heavy last minute of the song made me headbang big time!
 
-![Headbanging](https://media1.tenor.com/m/kNgo-EZ4wDcAAAAC/tattari-herehuss.gif)
+![Headbanging](headbanging.gif)
 
 ## Track 6: Angor
 
