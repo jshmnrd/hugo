@@ -1,7 +1,7 @@
 ---
 title: "Album of the Month - April 2026" 
 date: 2026-04-15
-tags: ["lists","music","posts","album of the month","canada","french"]
+tags: ["album of the month","music","lists","posts","canada","french"]
 author: ["Joshua Maynard"]
 description: "Vol.II by Angine de Poitrine"
 summary: "My favourite album this month is definitely Vol.II by Angine de Poitrine"
@@ -17,21 +17,22 @@ disableAnchoredHeadings: false
 ShowWordCount: false
 ---
 
-My album of the month in April was...
+*My album of the month in April was...*
 # Vol.II by Angine de Poitrine
-░░░ [《 Spotify 》](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo?si=QzN0yTsvT92TRIZcx9tuUw) ░░░ [《 Apple Music 》](https://music.apple.com/us/album/vol-ii/1876355936) ░░░ [《 YouTube Music 》](https://music.youtube.com/playlist?list=OLAK5uy_kkWWtOjOCB3gS0gK4_Dyq7U_E2SCladRg) ░░░ [《 YouTube 》](https://youtube.com/playlist?list=OLAK5uy_kfWFQrnmYi9PkqVzhw8fTcaUZ1grxMLYc) ░░░
+《 [Spotify](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo?si=QzN0yTsvT92TRIZcx9tuUw) 》░░░《 [Apple Music](https://music.apple.com/us/album/vol-ii/1876355936) 》░░░《 [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kkWWtOjOCB3gS0gK4_Dyq7U_E2SCladRg) 》░░░《 [YouTube](https://youtube.com/playlist?list=OLAK5uy_kfWFQrnmYi9PkqVzhw8fTcaUZ1grxMLYc) 》
 ![Vol.II by Angine de Poitrine](https://mcusercontent.com/b0e6e84ff83be729649ce2ccd/images/712d0324-1be6-6132-9e82-b8fe2fff719a.png)
 
-***Like many, I've been entranced in the hypnotic funk of Angine de Poitrine.*** "Angina Pectoris" is the English translation of that, by the way. Their newest album "Vol.II" is my album of the month for April 2026 (and my first 'Album of the Month' ever!)
+***Like many, I've been entranced in the hypnotic funk of Angine de Poitrine.***   
+"Angina Pectoris" is the English translation of that, by the way. Their newest album "Vol.II" is my album of the month for April 2026 (and my first 'Album of the Month' ever!)
 
 
 ## Track 1: Fabienk ★
 
-![Sebastien!](https://media1.tenor.com/m/YVi3cFZl2cgAAAAd/angine-de-poitrine-angine.gif)
+![Sebastien!](sebastien.gif)
 
 This is my anthem this month. I especially like the second half of the song, where the bass seems to like walk back on itself, sort of...not sure exactly how to describe it but it itches a very specific itch. This song makes me move like none other - like full-body bouncing along to the song.
 
-![John Cena bopping to song](https://media1.tenor.com/m/S4pFE_9crPAAAAAC/dan%C3%A7a-johncena-john-gif.gif)
+![John Cena bopping to song](john-cena-bopping.gif)
 
 ## Track 2: Mata Zyklek
 
@@ -43,7 +44,7 @@ I'll be honest, this one isn't my favourite, but I still enjoyed it.
 
 ## Track 3: Sarniezz
 
-![AdP Boppin](https://media1.tenor.com/m/KCguEnHvA8kAAAAC/angine-de-poitrine.gif)
+![AdP Boppin](adp-boppin.gif)
 
 The first song most of us ever heard, played first in their [viral KEXP set](https://youtu.be/0Ssi-9wS1so?si=bIxkKtSND087QZOZ). Also not released as a single, unreleased when I first discovered AdP, I wanted to be able to listen to this song on Spotify *so* bad.
 
@@ -65,4 +66,4 @@ Dun dun dun dun dun dun dun dun dun...  great song for focus actually - the rhyt
 
 I think this album and this band will go down in history. Their unique sound is unmatched in my opinion, and their virality and timing of it will mean this band is never forgotten. In a time when AI is super-saturating the world with generated garbage, Angine de Poitrine feels like spitting in the face of our 'AI overlords' - and I'm here for it!
 
-![Angine de Poitriiiiiinne!](https://mcusercontent.com/b0e6e84ff83be729649ce2ccd/images/fa08fdde-7f0d-1db3-7c0e-7bf689b1bd6e.png)
+![Angine de Poitriiiiiinne!](adp-triangle-hands.png)
