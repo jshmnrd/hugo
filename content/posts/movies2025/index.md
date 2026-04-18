@@ -6,8 +6,8 @@ author: ["Joshua Maynard"]
 description: "A list of my favourite movies"
 summary: "Normally a list of the movies I watched in the past year, but since it's the first, it's just a list of my favourite movies."
 cover:
-    image: "movies2025-thumbnail.png"
-    alt: "Cat cuddled up enjoying a movie"
+    image: "movies2025-thumbnail.gif"
+    alt: "Spongebob on the floor eating popcorn watching TV"
     relative: true
 editPost:
     URL: "https://letterboxd.com/jshmnrd/"
@@ -19,6 +19,8 @@ ShowWordCount: true
 
 #### Introduction
 For my first post on my website I figured I'd keep it light and do a list of my favourite movies. I love telling people about my favourite movies and if you know me I'd love to hear your thoughts about my picks!
+
+![spongebob gif](spongebob-squarepants-television.gif#center)
 
 ---
 

@@ -2,10 +2,6 @@
 title: "Dungeons & Dragons Books"
 description: "Dungeons & Dragons Books"
 ShowBreadCrumbs: true
-cover:
-    image: "andreas-rocha-readershall01.jpg"
-    alt: "Dungeons & Dragons Books"
-    relative: true
 date: 2026-04-13
 ---
 
