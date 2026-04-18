@@ -6,6 +6,6 @@ ShowBreadCrumbs: false
 
 # Contact Me
 You wanna talk to me?
-![*blushes*](chibi-anime-boy.gif)
+![*blushes*](blush.jpg)
 
-You can contact me on Twitter [@bigMoosse](https://twitter.com/bigMoosse), or by email at hello[at]jshmnrd.ca.
+You can contact me via email, [hello[at]jshmnrd.ca](#). <img src="blush.jpg">
