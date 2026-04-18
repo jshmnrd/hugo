@@ -8,4 +8,4 @@ ShowBreadCrumbs: false
 You wanna talk to me?
 ![*blushes*](blush.jpg)
 
-You can contact me via email, <a onClick="alert('no spam please!')">hello[at]jshmnrd.ca</a>.
+You can contact me via email, <a href="#" onClick="alert('no spam please!')">hello[at]jshmnrd.ca</a>.
