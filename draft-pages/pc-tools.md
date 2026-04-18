@@ -6,13 +6,11 @@ author: ["Joshua Maynard"]
 description: "These are my favourite tools and programs for my PC."
 summary: "These are my favourite tools and programs for my PC."
 cover:
-    image: "movies2025-thumbnail.png"
+    image: "pc-tools-thumbnail.jpg"
     alt: "Cat cuddled up enjoying a movie"
     relative: true
-editPost:
-    URL: "https://letterboxd.com/jshmnrd/"
-    Text: "Follow me on Letterboxd"
 showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: true
 ---
+
