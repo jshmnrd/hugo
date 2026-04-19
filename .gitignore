@@ -1,16 +1,6 @@
 # Hugo build artifacts
 public/
 resources/
+drafts/
 .hugo_build.lock
 .DS_Store
-content/.DS_Store
-content/posts/.DS_Store
-.DS_Store
-content/posts/.DS_Store
-content/.DS_Store
-content/posts/.DS_Store
-content/.DS_Store
-content/posts/.DS_Store
-.DS_Store
-content/.DS_Store
-content/posts/.DS_Store
