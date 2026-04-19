@@ -6,8 +6,8 @@ author: ["Joshua Maynard"]
 description: "Vol.II by Angine de Poitrine"
 summary: "My favourite album this month is definitely Vol.II by Angine de Poitrine"
 cover:
-    image: "https://images.zoogletools.com/s:bzglfiles/u/1127819/4198f8cc9ff773afccf60f6337d3115a51556990/original/ligue-rock-7mars-6827.jpg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0IjowLCJ0b3AiOjAsIndpZHRoIjo1NzgxLCJoZWlnaHQiOjI4ODJ9XSxbInJlc2l6ZSIsMjAwMF0sWyJtYXgiXSxbIndlIl1d/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg"
-    alt: "Vol.II by Angine de Poitrine"
+    image: "aotm-202604-volii-thumbnail.png"
+    alt: "Photo credit: Camille Gladu-Drouin"
     relative: true
 editPost:
     URL: "https://anginedepoitrine.com/"
