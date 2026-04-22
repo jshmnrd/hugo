@@ -3,6 +3,13 @@ title: "About"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
 ---
+<script>
+    window.onload = function() {
+        document.getElementById("randybutternubs").play();
+    }
+</script>
+
+<audio id="randybutternubs" src="randybutternubs.ogg" loop="loop"></audio>
 
 # Hi ✌️
 
