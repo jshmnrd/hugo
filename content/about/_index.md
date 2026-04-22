@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
     }
 </script>
 
-<audio id="randybutternubs" src="randybutternubs.ogg" loop="loop"></audio>
+<audio id="randybutternubs" src="randybutternubs.ogg"></audio>
 
 # Hi ✌️
 
