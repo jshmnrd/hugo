@@ -27,19 +27,6 @@ menu:
         - name: contact
           url: contact/
           weight: 7
-    footer:
-        - name: posts
-          url: posts/
-          weight: 3
-        - name: tags
-          url: tags/
-          weight: 5
-        - name: archive
-          url: archives/
-          weight: 6
-        - name: contact
-          url: contact/
-          weight: 7
 
 params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
