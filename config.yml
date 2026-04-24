@@ -15,23 +15,28 @@ menu:
         - name: about
           url: about/
           weight: 2 
-        - name: d&d
-          url: dnd/
+        - name: explore
+          url: explore/
           weight: 4
+        - name: posts
+          url: posts/
+          weight: 3
+        - name: 🔍
+          url:  search/
+          weight: 8
+        - name: contact
+          url: contact/
+          weight: 7
+    footer:
         - name: posts
           url: posts/
           weight: 3
         - name: tags
           url: tags/
-          parent: posts
-          weight: 1
-        - name: 🔍
-          url:  search/
-          weight: 8
+          weight: 5
         - name: archive
           url: archives/
-          parent: posts
-          weight: 2
+          weight: 6
         - name: contact
           url: contact/
           weight: 7

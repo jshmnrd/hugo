@@ -1,0 +1,14 @@
+---
+title: "Dungeons & Dragons"
+description: "Dungeons & Dragons Resources"
+ShowBreadCrumbs: true
+cover:
+    image: "dnd-thumbnail.png"
+    alt: "Dungeons & Dragons"
+    relative: true
+---
+
+# Dungeons & Dragons
+These pages hold pages with resources for Dungeons & Dragons. Both player & DM should find these helpful.
+
+cover credit: [Cullen Cole @ Artstation](https://www.artstation.com/artwork/zx3eQ6)

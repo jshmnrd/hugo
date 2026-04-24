@@ -1,7 +1,8 @@
 ---
 title: "Posts"
 description: "Posts by me about whatever..."
-ShowToc: true
+ShowBreadCrumbs: false
 ---
 
 # Posts
+[tags](tags/)   [archive](archives/)
