@@ -5,4 +5,4 @@ ShowBreadCrumbs: false
 ---
 
 # Posts
-[tags](/tags/)   [archive](/archives/)
+[tags](/tags/)&emsp;[archive](/archives/)
