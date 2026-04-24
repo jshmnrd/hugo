@@ -70,34 +70,6 @@ body:not(.dark) #sun {
     border-bottom: 2px solid var(--darkcolor);
 }
 
-#menu li {
-    position: relative;
-}
-
-#menu .dropdown-menu {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 180px;
-    padding: 0.5rem 0;
-    list-style: none;
-    z-index: 999;
-}
-
-#menu .has-dropdown:hover .dropdown-menu {
-    display: block;
-}
-
-#menu .dropdown-menu li a {
-    display: block;
-    padding: 0.5rem 1rem;
-    white-space: nowrap;
-}
-
-.dropdown-arrow {
-    margin-left: 4px;
-}
 
 .lang-switch li,
 .lang-switch ul,
