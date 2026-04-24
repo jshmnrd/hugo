@@ -65,8 +65,8 @@ params:
               url: about/
             - name: posts
               url: posts/
-            - name: d&d
-              url: dnd/
+            - name: explore
+              url: explore/
             - name: contact
               url: contact/
 
