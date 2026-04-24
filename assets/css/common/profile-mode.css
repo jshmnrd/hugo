@@ -32,7 +32,7 @@
 }
 
 .button {
-    background: var(--tertiary);
+    background: var(--profile-button); /* was var(--tertiary) */
     border-radius: var(--radius);
     margin: 6px 12px 6px 0px;
     padding: 10px;
@@ -44,5 +44,5 @@
 
 .button:hover {
     background: var(--lightcolor);
-    color: var(--tertiary); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
+    color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
