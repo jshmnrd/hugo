@@ -66,11 +66,6 @@ body:not(.dark) #sun {
     font-weight: 400;
 }
 
-/* added 22:42 23-04-2026 */
-#menu a:hover {
-    border-bottom: 2px solid var(--darkcolor);
-}
-
 #menu .active {
     border-bottom: 2px solid var(--darkcolor);
 }

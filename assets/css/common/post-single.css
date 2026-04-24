@@ -433,7 +433,7 @@ img.in-text {
 }
 
 a[href^="#fn:"], a[href^="#fnref:"] {
-     box-shadow: 0 0px 0 var(--darkcolor);
+     box-shadow: 0 0px 0 var(--lightcolor); /*test*/
 }
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
