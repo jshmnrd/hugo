@@ -2,7 +2,8 @@
 title: "Dungeons & Dragons"
 description: "Dungeons & Dragons Resources"
 ShowBreadCrumbs: true
-date: 0000-00-00
+date: 2026-04-11
+hidemeta: true
 cover:
     image: "dnd-thumbnail.png"
     alt: "Dungeons & Dragons"
