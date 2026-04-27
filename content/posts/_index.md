@@ -5,4 +5,9 @@ ShowBreadCrumbs: false
 ---
 
 # Posts
-[tags](/tags/)&emsp;&emsp;&emsp;&emsp;&emsp;[archive](/archives/)
+<table style="width:100%;border:0px solid black;">
+    <tr>
+        <td style="width:50%;">[<a href="/tags/">tags</a>]</td>
+        <td style="width:50%;">[<a href="/archives/">archives</a>]</td>
+    </tr>
+</table>
