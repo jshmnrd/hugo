@@ -16,9 +16,6 @@ showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
-
-<span style="text-align:center;"><img src="/static/stars-dark/80.svg" max-width="50%"></span>
-
 ![post cover - the film's poster with a screenshot of the film](filmreview-emperor-thumbnail.png#center)
 
 <span style="text-align:center;">[<a href="https://www.imdb.com/title/tt2103264/" target="_blank">IMDb</a>]&emsp;[<a href="https://letterboxd.com/film/emperor-2012/" target="_blank">Letterboxd</a>]&emsp;[<a href="https://www.themoviedb.org/movie/127372-emperor" target="_blank">TMDB</a>]</span>
@@ -28,7 +25,7 @@ I'm watching this film because I saw a clip of it on YouTube Shorts. In honestly
 
 My honest first thought was that I recognized the lead actor, <a href="https://www.imdb.com/name/nm0289142/" target="_blank">Matthew Fox</a> ([more notes below](#matthew-fox)) from his role as Racer X in the live-action <a href="https://www.imdb.com/title/tt0811080/" target="_blank">Speed Racer</a> film from 2008.
 
-<img src="https://m.media-amazon.com/images/M/MV5BMTg0MTkxNjAyOF5BMl5BanBnXkFtZTcwNzk4NTUyNw@@._V1_.jpg" style="max-width:50%;text-align:center;">
+<span style="text-align:center;"><img src="https://m.media-amazon.com/images/M/MV5BMTg0MTkxNjAyOF5BMl5BanBnXkFtZTcwNzk4NTUyNw@@._V1_.jpg" style="max-width:50%;"></span>
 
 However, my second thought was about how Japan and its people must have felt about the whole situation - speaking to the great acting & direction of the film. I really felt my outlook on the situation change as the film concluded as well. MacArthur doing the right thing with the Emperor at the end, shifted the tone from concerned and uncertain of the future to optimistic and hopeful at the end. I really felt this shift and at that moment realized how immersed I was, how well the film had made me feel what was happening.
 
