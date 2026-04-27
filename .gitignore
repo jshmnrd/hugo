@@ -5,3 +5,4 @@ drafts/
 .hugo_build.lock
 .DS_Store
 trash/
+templates/
