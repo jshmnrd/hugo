@@ -8,9 +8,12 @@ cover:
     alt: "Bookshelf"
     relative: true
 ---
+# Bookshelf
+This is my reading library.
 
+<!-- Alphabetical -->
 <details>
-    <summary>Alphabetical</summary>
+    <summary>Alphabetical List</summary>
     <table class="table table-bordered table-hover table-condensed">
         <thead>
             <tr>
@@ -211,7 +214,7 @@ cover:
                 <td>Harry Potter</td>
             </tr>
             <tr>
-                <td>Harry Potter and the Philosopher&#39;s Stone</td>
+                <td>Harry Potter and the Philosopher's Stone</td>
                 <td>J.K. Rowling</td>
                 <td>Harry Potter</td>
             </tr>
@@ -251,7 +254,7 @@ cover:
                 <td> </td>
             </tr>
             <tr>
-                <td>In the Buddha&#39;s Words</td>
+                <td>In the Buddha's Words</td>
                 <td>Bhikku Bodhi</td>
                 <td> </td>
             </tr>
@@ -469,6 +472,565 @@ cover:
                 <td>Wolves of the Calla</td>
                 <td>Stephen King</td>
                 <td>The Dark Tower</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+# Series
+<!-- ASOIAF -->
+<details>
+    <summary>A Song of Ice and Fire, George R.R. Martin</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>A Game of Thrones</td>
+                <td>George R.R. Martin</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>A Clash of Kings</td>
+                <td>George R.R. Martin</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>A Storm of Swords</td>
+                <td>George R.R. Martin</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>A Feast for Crows</td>
+                <td>George R.R. Martin</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>A Dance with Dragons</td>
+                <td>George R.R. Martin</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>The Winds of Winter</td>
+                <td>George R.R. Martin</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>A Dream of Spring</td>
+                <td>George R.R. Martin</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- Dark Tower -->
+<details>
+    <summary>The Dark Tower, Stephen King</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>0.5</td>
+                <td>The Little Sisters of Eluria</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>The Gunslinger</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>The Drawing of the Three</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>The Wastelands</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Wizard and Glass</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>4.5</td>
+                <td>The Wind Through the Keyhole</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Wolves of the Calla</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Song of Susannah</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>The Dark Tower</td>
+                <td>Stephen King</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- Dune -->
+<details>
+    <summary>Dune, Frank Herbert</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Dune</td>
+                <td>Frank Herbert</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Dune Messiah</td>
+                <td>Frank Herbert</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Children of Dune</td>
+                <td>Frank Herbert</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>God Emperor of Dune</td>
+                <td>Frank Herbert</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Heretics of Dune</td>
+                <td>Frank Herbert</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Chapterhouse: Dune</td>
+                <td>Frank Herbert</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Hunters of Dune</td>
+                <td>Frank Herbert</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Sandworms of Dune</td>
+                <td>Frank Herbert</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- Harry Potter -->
+<details>
+    <summary>Harry Potter, J.K. Rowling</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Harry Potter and the Philosopher's Stone</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Harry Potter and the Chamber of Secrets</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Harry Potter and the Prisoner of Azkaban</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Harry Potter and the Goblet of Fire</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Harry Potter and the Order of the Phoenix</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Harry Potter and the Half-Blood Prince</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Harry Potter and the Deathly Hallows</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Harry Potter and the Cursed Child</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Fantastic Beasts and Where to Find Them</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Quiddich through the Ages</td>
+                <td>J.K. Rowling</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>The Tales of Beedle the Bard</td>
+                <td>J.K. Rowling</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- Hunger Games -->
+<details>
+    <summary>The Hunger Games, Suzanne Collins</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>0</td>
+                <td>The Ballad of Songbirds and Snakes</td>
+                <td>Suzanne Collins</td>
+            </tr>
+            <tr>
+                <td>0.5</td>
+                <td>Sunrise on the Reaping</td>
+                <td>Suzanne Collins</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>The Hunger Games</td>
+                <td>Suzanne Collins</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Catching Fire</td>
+                <td>Suzanne Collins</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Mockingjay</td>
+                <td>Suzanne Collins</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- Middle Earth -->
+<details>
+    <summary>Middle Earth, J.R.R.Tolkien</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>0.5</td>
+                <td>The Silmarillion</td>
+                <td>J.R.R. Tolkien</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>The Hobbit, or There and Back Again</td>
+                <td>J.R.R. Tolkien</td>
+            </tr>
+            <tr>
+                <td>1.5</td>
+                <td>The Adventures of Tom Bombadil</td>
+                <td>J.R.R. Tolkien</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>The Fellowship of the Ring</td>
+                <td>J.R.R. Tolkien</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>The Two Towers</td>
+                <td>J.R.R. Tolkien</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Return of the King</td>
+                <td>J.R.R. Tolkien</td>
+            </tr>
+            <tr>
+                <td>4.5</td>
+                <td>Bilbo's Last Song</td>
+                <td>J.R.R. Tolkien</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- Shades of Magic -->
+<details>
+    <summary>Shades of Magic, V.E. Schwab</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>A Darker Shade of Magic</td>
+                <td>V.E. Schwab</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>A Gathering of Shadows</td>
+                <td>V.E. Schwab</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>A Conjuring of Light</td>
+                <td>V.E. Schwab</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- Shadow and Bone -->
+<details>
+    <summary>Shadow and Bone, Leigh Bardugo</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Number</th>
+                <th title="Field #2">Title</th>
+                <th title="Field #3">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>0.5</td>
+                <td>Demon in the Wood</td>
+                <td>Leigh Bardugo</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Shadow and Bone</td>
+                <td>Leigh Bardugo</td>
+            </tr>
+            <tr>
+                <td>1.5</td>
+                <td>The Tailor</td>
+                <td>Leigh Bardugo</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Siege and Storm</td>
+                <td>Leigh Bardugo</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Ruin and Rising</td>
+                <td>Leigh Bardugo</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<!-- NO SERIES -->
+<details>
+    <summary>No Series</summary>
+    <table class="table table-bordered table-hover table-condensed">
+        <thead>
+            <tr>
+                <th title="Field #1">Title</th>
+                <th title="Field #2">Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1984</td>
+                <td>George Orwell</td>
+            </tr>
+            <tr>
+                <td>The Bhagavad Gita</td>
+                <td>Eknath Easwaran</td>
+            </tr>
+            <tr>
+                <td>The Catcher in the Rye</td>
+                <td>J.D. Salinger</td>
+            </tr>
+            <tr>
+                <td>A Christmas Carol</td>
+                <td>Charles Dickens</td>
+            </tr>
+            <tr>
+                <td>The Creative Act: A Way of Being</td>
+                <td>Rick Rubin</td>
+            </tr>
+            <tr>
+                <td>Doctor Sleep</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>The Enchiridion</td>
+                <td>Epictetus</td>
+            </tr>
+            <tr>
+                <td>The Great Gatsby</td>
+                <td>F. Scott Fitzgerald</td>
+            </tr>
+            <tr>
+                <td>Greenlights</td>
+                <td>Matthew McConaughey</td>
+            </tr>
+            <tr>
+                <td>Holly</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>The Iliad</td>
+                <td>Homer</td>
+            </tr>
+            <tr>
+                <td>In the Buddha's Words</td>
+                <td>Bhikku Bodhi</td>
+            </tr>
+            <tr>
+                <td>The Institute</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>The Invisible Life of Addie LaRue</td>
+                <td>V.E. Schwab</td>
+            </tr>
+            <tr>
+                <td>It</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>Lord of the Flies</td>
+                <td>William Golding</td>
+            </tr>
+            <tr>
+                <td>The Martian</td>
+                <td>Andy Weir</td>
+            </tr>
+            <tr>
+                <td>Meditations</td>
+                <td>Marcus Aurelius</td>
+            </tr>
+            <tr>
+                <td>The Midnight Library</td>
+                <td>Matt Haig</td>
+            </tr>
+            <tr>
+                <td>Moby Dick, or The Whale</td>
+                <td>Herman Melville</td>
+            </tr>
+            <tr>
+                <td>Nicomachean Ethics</td>
+                <td>Aristotle</td>
+            </tr>
+            <tr>
+                <td>The Nightjar</td>
+                <td>Deborah Hewitt</td>
+            </tr>
+            <tr>
+                <td>The Odyssey</td>
+                <td>Homer</td>
+            </tr>
+            <tr>
+                <td>Peter Nible and His Fantastic Eyes</td>
+                <td>Jonathan Auxier</td>
+            </tr>
+            <tr>
+                <td>Ready Player One</td>
+                <td>Ernest Cline</td>
+            </tr>
+            <tr>
+                <td>The Republic</td>
+                <td>Plato</td>
+            </tr>
+            <tr>
+                <td>The Rookery</td>
+                <td>Deborah Hewitt</td>
+            </tr>
+            <tr>
+                <td>The Shining</td>
+                <td>Stephen King</td>
+            </tr>
+            <tr>
+                <td>Siddhartha</td>
+                <td>Herman Hesse</td>
+            </tr>
+            <tr>
+                <td>Sophie Quire</td>
+                <td>Jonathan Auxier</td>
+            </tr>
+            <tr>
+                <td>The Stranger</td>
+                <td>Albert Camus</td>
+            </tr>
+            <tr>
+                <td>Tao Te Ching</td>
+                <td>Stephen Mitchell</td>
+            </tr>
+            <tr>
+                <td>Thus Spake Zarathustra</td>
+                <td>Friedrich Nietzsche</td>
+            </tr>
+            <tr>
+                <td>To Kill a Mockingbird</td>
+                <td>Harper Lee</td>
+            </tr>
+            <tr>
+                <td>The Westing Game</td>
+                <td>Ellen Raskin</td>
             </tr>
         </tbody>
     </table>
