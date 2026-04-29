@@ -13,7 +13,8 @@ This is my reading library.
 
 <!-- Alphabetical -->
 <details>
-    <summary>Alphabetical List</summary>
+    <summary><h3>Alphabetical List</h3></summary>
+    
     <table class="table table-bordered table-hover table-condensed">
         <thead>
             <tr>
