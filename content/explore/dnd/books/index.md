@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"
 cover:
-    image: "andreas-rocha-readershall01.jpg"
+    image: "dndbooks-thumbnail.png"
     alt: "Dungeons & Dragons Books"
     relative: true
 editPost:
