@@ -660,10 +660,23 @@ This is my reading library.
 <script src="https://cdn.datatables.net/2.3.8/js/dataTables.min.js"></script>
 
 <script>
-  new DataTable('#bookTable', {
-    pageLength: 25,
-    order: [[0, 'asc']]
+  document.addEventListener('DOMContentLoaded', function () {
+    const table = document.querySelector('#bookTable');
+
+    if (table && window.DataTable) {
+      new DataTable('#bookTable', {
+        pageLength: 25,
+        order: [[2, 'asc']]
+      });
+    } else {
+      console.error('DataTables did not load or #bookTable was not found.');
+    }
   });
+</script>
+
+<script>
+  console.log('Table found:', document.querySelector('#bookTable'));
+  console.log('DataTables loaded:', window.DataTable);
 </script>
 
 ---
