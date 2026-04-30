@@ -11,7 +11,18 @@ cover:
 # Bookshelf
 This is my reading library.
 
-<table id="bookTable" class="table table-bordered table-hover table-condensed">
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.min.css">
+
+<script src="https://cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
+
+<script>
+  new DataTable('#bookTable', {
+    pageLength: 25,
+    order: [[0, 'asc']]
+  });
+</script>
+
+<table id="bookTable">
     <thead>
         <tr>
             <th title="Field #1">Title</th>
@@ -654,17 +665,6 @@ This is my reading library.
         </tr>
     </tbody>
 </table>
-
-<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.min.css">
-
-<script src="https://cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
-
-<script>
-  new DataTable('#bookTable', {
-    pageLength: 25,
-    order: [[0, 'asc']]
-  });
-</script>
 
 ---
 ---
