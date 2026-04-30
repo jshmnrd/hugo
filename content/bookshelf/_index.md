@@ -655,9 +655,9 @@ This is my reading library.
     </tbody>
 </table>
 
-<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/2.3.8/css/dataTables.dataTables.min.css">
 
-<script src="https://cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.8/js/dataTables.min.js"></script>
 
 <script>
   new DataTable('#bookTable', {
