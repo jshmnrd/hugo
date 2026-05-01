@@ -27,7 +27,17 @@ This is my reading library. This page totally isn't ready, nor does it have all 
 ---
 
 <div id="book-list">
-    <input class="search" placeholder="Search books..." /><br><b>Sort by:</b>&emsp;[ <button class="sort" data-sort="id">ID</button> ]&emsp;[ <button class="sort" data-sort="title">Title</button> ]&emsp;[ <button class="sort" data-sort="author">Author</button> ]
+    <input class="search" placeholder="Search books..." /><br>
+    <b>Sort by:</b>&emsp;
+    <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">
+        [ <button class="sort" data-sort="id">ID</button> ]
+    </span>&emsp;
+    <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button
+            class="sort" data-sort="title">Title</button> ]
+    </span>&emsp;
+    <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">
+        [ <button class="sort" data-sort="author">Author</button> ]
+    </span>
     <table>
         <thead>
             <tr>
