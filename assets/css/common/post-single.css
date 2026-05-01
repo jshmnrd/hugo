@@ -73,11 +73,12 @@
 }
 
 .post-content a {
-    text-decoration: solid 2px var(--darkcolor);
+    color: var(--darkcolor);
 }
 
 .post-content a:hover {
-    text-decoration: wavy 2px var(--darkcolor);
+    color: currentColor;
+    box-shadow: 0 2px 0 var(--darkcolor);
 }
 
 .post-meta a,
