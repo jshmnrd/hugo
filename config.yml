@@ -77,6 +77,9 @@ params:
           url: https://bsky.app/profile/jshmnrd.ca/
         - name: Mastodon
           url: https://mstdn.ca/@jshmnrd/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/maynardjoshua/
+        - name: Separator
         - name: Letterboxd
           url: https://letterboxd.com/jshmnrd/
         - name: Anilist
@@ -85,8 +88,6 @@ params:
           # url: https://bookwyrm.social/user/jshmnrd/
         # - name: GitHub
           # url: https://github.com/jshmnrd/
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/maynardjoshua/
 
     assets:
         disableScrollBarStyle: true
