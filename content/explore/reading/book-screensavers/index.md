@@ -20,7 +20,7 @@ hidemeta: true
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/arrival.jpg"></td>
+            <td rowspan="4"><img class="thumb" src="https://pub.jshmnrd.ca/boox/screensaver/thumb/arrival.jpg"></td>
             <td><h3>Arrival</h3></td>
         </tr>
         <tr>
