@@ -5,6 +5,10 @@ summary: "Dive into my library, find resources for e-readers, and more!"
 ShowBreadCrumbs: true
 date: 2026-04-12
 hidemeta: true
+cover:
+    image: "reading-thumbnail.png"
+    alt: "“Paper Discovery” by Steven Bongers on Artstation"
+    relative: true
 ---
 
 # Reading
