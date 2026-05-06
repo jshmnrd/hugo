@@ -19,7 +19,7 @@ menu:
           url: explore/
           weight: 3
         - name: posts
-          url: posts/
+          url: explore/posts/
           weight: 4
         - name: 🔍
           url:  search/
@@ -61,14 +61,16 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: about
-              url: about/
-            - name: explore
-              url: explore/
-            - name: posts
-              url: posts/
-            - name: contact
-              url: contact/
+              - name: enter site
+                url: explore/
+            # - name: about
+              # url: about/
+            # - name: explore
+              # url: explore/
+            # - name: posts
+              # url: posts/
+            # - name: contact
+              # url: contact/
 
     socialIcons:
         - name: Twitter
