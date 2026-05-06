@@ -19,7 +19,7 @@ menu:
           url: explore/
           weight: 3
         - name: posts
-          url: explore/posts/
+          url: posts/
           weight: 4
         - name: 🔍
           url:  search/
