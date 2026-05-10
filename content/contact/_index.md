@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 You wanna talk to me?
 ![*blushes*](blush260.jpg)
 
-You can contact me via email, <a href="#" onClick="alert('no spam please!')">hello[at]jshmnrd.ca</a>. Also be sure to sign my guestbook to leave your mark!
+You can contact me via email, <a href="#" onClick="alert('no spam please!')">hello[at]jshmnrd.ca</a>.<br>Also be sure to sign my guestbook to leave your mark!
 
 ## Guestbook
 
