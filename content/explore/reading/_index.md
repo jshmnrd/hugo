@@ -1,14 +1,14 @@
 ---
 title: "Reading"
-description: "Everything related to reading is found here."
-summary: "Dive into my library, find resources for e-readers, and more!"
+description: "Posts in this page are all reading & literature related."
+summary: "Posts in this page are all reading & literature related."
 ShowBreadCrumbs: true
-date: 2026-04-12
-hidemeta: true
-cover:
-    image: "reading-thumbnail.png"
-    alt: "“Paper Discovery” by Steven Bongers on Artstation"
-    relative: true
+date: 2026-03-27
+hidemeta: false
+#cover:
+    #image: "reading-thumbnail.png"
+    #alt: "“Paper Discovery” by Steven Bongers on Artstation"
+    #relative: true
 ---
 
 # Reading

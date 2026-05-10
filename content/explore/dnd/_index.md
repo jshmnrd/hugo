@@ -3,7 +3,7 @@ title: "Dungeons & Dragons"
 description: "Dungeons & Dragons Resources"
 summary: "These pages hold pages with resources for Dungeons & Dragons. Both player & DM should find these helpful."
 ShowBreadCrumbs: true
-date: 2026-04-11
+date: 2026-03-31
 hidemeta: true
 cover:
     image: "dnd-thumbnail-2.png"
