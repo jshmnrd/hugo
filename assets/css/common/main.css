@@ -75,9 +75,11 @@ pre:hover .copy-code {
     display: block;
 }
 
-::selection {
-  background: var(--darkcolor); /* WebKit/Blink Browsers */
+::selection { /* WebKit/Blink Browsers */
+  background: var(--darkcolor);
+  color: var(--theme);
 }
-::-moz-selection {
-  background: var(--darkcolor); /* Gecko Browsers */
+::-moz-selection { /* Gecko Browsers */
+  background: var(--darkcolor);
+  color: var(--theme);
 }
