@@ -10,6 +10,7 @@ cover:
     alt: "“Extraordinary Attorney Woo” by Pixel Jeff on 8bitdash"
     # src: https://www.8bitdash.com/gallery?artworkId=5a9cceb6-5f04-4457-a9d5-62228610633c
     relative: true
+    crop: "Center"
 ---
 
 # 🎵 Music
