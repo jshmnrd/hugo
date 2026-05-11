@@ -6,7 +6,7 @@ ShowBreadCrumbs: true
 date: 2026-03-28
 hidemeta: true
 cover:
-    image: "PixelThumbnail-music-a.jpg"
+    image: "chillnap.webp"
     alt: "“Chillnap” by Pixel Jeff on 8bitdash"
     relative: true
 ---

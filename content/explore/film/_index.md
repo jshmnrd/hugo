@@ -6,7 +6,7 @@ ShowBreadCrumbs: true
 date: 2026-03-30
 hidemeta: true
 cover:
-    image: "PixelThumbnail-film-a.jpg"
+    image: "starwars.webp"
     alt: "“Starwars” by Pixel Jeff on 8bitdash"
     relative: true
 ---
