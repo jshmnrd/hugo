@@ -15,7 +15,7 @@ editPost:
     Text: "version 01"
 showToc: true
 disableAnchoredHeadings: false
-ShowWordCount: false
+ShowWordCount: true
 ---
 
 [My review on Letterboxd](https://letterboxd.com/jshmnrd/film/emperor-2012/)
