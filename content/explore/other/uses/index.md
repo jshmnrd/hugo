@@ -1,7 +1,7 @@
 ---
 title: "Uses" 
 date: 2026-05-10
-tags: ["lists","posts","resources","tools","websites"]
+tags: ["posts","lists","resources","tools","websites"]
 author: ["Joshua Maynard"]
 description: "A list of websites, apps, software, etc. that I use."
 summary: "I use a bunch of software and websites and wanted to share them here."

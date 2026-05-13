@@ -1,7 +1,7 @@
 ---
 title: "Dungeons & Dragons Books" 
 date: 2026-04-18
-tags: ["dnd","books","resources","files"]
+tags: ["posts","dnd","books","resources"]
 author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"

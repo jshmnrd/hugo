@@ -1,7 +1,7 @@
 ---
 title: "Film Review: The Grand Budapest Hotel (2014)" 
 date: 2026-04-12
-tags: ["film review","movies","posts"]
+tags: ["posts","film review","film","review"]
 author: ["Joshua Maynard"]
 description: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."
 summary: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."

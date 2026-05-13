@@ -1,7 +1,7 @@
 ---
 title: "Library"
 date: 2026-05-12
-tags: ["lists","books","posts"]
+tags: ["posts","lists","books"]
 author: ["Joshua Maynard"]
 description: "My library"
 summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"

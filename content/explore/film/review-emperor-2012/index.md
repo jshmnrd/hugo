@@ -1,7 +1,7 @@
 ---
 title: "Film Review: Emperor (2012)" 
 date: 2026-04-25
-tags: ["film review","review","movies","film","posts"]
+tags: ["posts","film review","film","review"]
 author: ["Joshua Maynard"]
 description: "My review of Emperor (2012)"
 summary: "My review of Emperor (2012)"

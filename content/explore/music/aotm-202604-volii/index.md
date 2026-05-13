@@ -1,7 +1,7 @@
 ---
 title: "Album of the Month - April 2026" 
 date: 2026-04-15
-tags: ["album of the month","music","lists","posts","canada","french"]
+tags: ["posts","album review","review","album of the month","music"]
 author: ["Joshua Maynard"]
 description: "Vol.II by Angine de Poitrine"
 summary: "My favourite album this month is definitely Vol.II by Angine de Poitrine"

@@ -1,7 +1,7 @@
 ---
 title: "My Film List 2025" 
 date: 2026-04-12
-tags: ["lists","movies","posts"]
+tags: ["posts","lists","film"]
 author: ["Joshua Maynard"]
 description: "A list of my favourite movies"
 summary: "Normally a list of the movies I watched in the past year, but since it's the first, it's just a list of my favourite movies."
