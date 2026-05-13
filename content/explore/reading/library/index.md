@@ -21,12 +21,12 @@ hidemeta: false
 ---
 
 # 📚 Library
-This is my library. This page totally isn't ready, nor does it have all the stuff I want on it, but I'm publishing it anyways.
+This is my library. I keep it up to date as best I can, but the most up-to-date list is on my [Hardcover.app profile](https://hardcover.app/@jshmnrd?referrer_id=98561).
 
 <details>
     <summary><b>Updates coming soon:</b></summary>
     <ul>
-        <li>Hardcover.app links</li>
+        <li><a href="https://hardcover.app/@jshmnrd?referrer_id=98561" target="_blank">Hardcover.app</a> links</li>
         <li>ISBNs</li>
         <li>Read/not-read checkboxes</li>
     </ul>

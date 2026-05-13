@@ -83,7 +83,7 @@ params:
         - name: Letterboxd
           url: https://letterboxd.com/jshmnrd/
         - name: Hardcover
-          url: https://hardcover.app/@jshmnrd
+          url: https://hardcover.app/@jshmnrd?referrer_id=98561
         - name: Anilist
           url: https://anilist.co/user/joshuamaynard/
         - name: GitHub

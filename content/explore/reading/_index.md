@@ -15,3 +15,4 @@ cover:
 
 # 📖 Reading
 Posts in this page are all reading-related.
+Follow me on [Hardcover.app](https://hardcover.app/@jshmnrd?referrer_id=98561)!
