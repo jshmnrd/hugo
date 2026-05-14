@@ -37,11 +37,11 @@ RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
 ## Robert Birming
 Main website [robertbirming.com](https://robertbirming.com/)  
 Main RSS feed: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span style="text-decoration:underline 2px solid var(--primary);" onmouseover="style='text-decoration:underline 2px solid var(--darkcolor);cursor:pointer;'" onmouseout="style='text-decoration:underline 2px solid var(--primary);'" onclick="myFunction()">robertbirming.com/feed/</span>
-
-<div style="background:var(--lightcolor);border:4px solid var(--darkcolor);border-radius:10px;padding:5px 15px 5px 15px;">
+<div style="background:var(--lightcolor);border:2px solid var(--darkcolor);border-radius:10px;padding:5px 15px 5px 15px;">
     <h3 style="color:var(--primary)">WARNING ⚠️</h3>
     <p>Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a <a href="https://bearblog.dev/" target="_blank">Bear Blog</a> thing).</p>
 </div>
+
 
 Alt website: [birming.com](https://birming.com/)  
 Alt RSS feed: [birming.com/feed.xml](https://birming.com/feed.xml)
