@@ -5,12 +5,12 @@ tags: ["posts","lists","resources","tools","websites"]
 author: ["Joshua Maynard"]
 description: "A list of websites, apps, software, etc. that I use."
 summary: "I use a bunch of software and websites and wanted to share them here."
-cover:
-    image: "heartbeat.gif"
-    alt: "“Heartbeat” by waneella on 8bitdash"
+#cover:
+    #image: "heartbeat.gif"
+    #alt: "“Heartbeat” by waneella on 8bitdash"
     # src: https://www.8bitdash.com/gallery?artworkId=bd91e48a-0e15-47f4-b82c-b4311dda92ef
-    relative: true
-    crop: "Center"
+    #relative: true
+    #crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/other/uses"
     Text: "version 01"

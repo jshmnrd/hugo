@@ -5,11 +5,11 @@ tags: ["posts","dnd","websites","resources","tools"]
 author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons tools"
 summary: "This page contains links to Dungeons & Dragons tools"
-cover:
-    image: "envar-studio-ornnsforge-final.jpg"
-    alt: "“Ornn's Forge” by Envar Studio on Artstation"
-    relative: true
-    crop: "Center"
+#cover:
+    #image: "envar-studio-ornnsforge-final.jpg"
+    #alt: "“Ornn's Forge” by Envar Studio on Artstation"
+    #relative: true
+    #crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/tools"
     Text: "version 01"

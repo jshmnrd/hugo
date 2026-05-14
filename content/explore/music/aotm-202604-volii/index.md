@@ -5,11 +5,11 @@ tags: ["posts","album review","review","album of the month","music"]
 author: ["Joshua Maynard"]
 description: "Vol.II by Angine de Poitrine"
 summary: "My favourite album this month is definitely Vol.II by Angine de Poitrine"
-cover:
-    image: "angine-de-poitrine.jpg"
-    alt: "Photo credit: Camille Gladu-Drouin"
-    relative: true
-    crop: "Smart"
+#cover:
+    #image: "angine-de-poitrine.jpg"
+    #alt: "Photo credit: Camille Gladu-Drouin"
+    #relative: true
+    #crop: "Smart"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/music/aotm-202604-volii"
     Text: "version 01"

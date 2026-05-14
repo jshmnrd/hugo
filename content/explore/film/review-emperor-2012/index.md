@@ -5,11 +5,11 @@ tags: ["posts","film review","film","review"]
 author: ["Joshua Maynard"]
 description: "My review of Emperor (2012)"
 summary: "My review of Emperor (2012)"
-cover:
-    image: "emperor2012.jpg"
-    alt: "Screenshot from the film."
-    relative: true
-    crop: "Top"
+#cover:
+    #image: "emperor2012.jpg"
+    #alt: "Screenshot from the film."
+    #relative: true
+    #crop: "Top"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-emperor-2012"
     Text: "version 01"

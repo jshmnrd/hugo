@@ -5,11 +5,11 @@ tags: ["posts","lists","books"]
 author: ["Joshua Maynard"]
 description: "My library"
 summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"
-cover:
-    image: "maethavee-kay-e-2.jpg"
-    alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
-    relative: true
-    crop: "Smart"
+#cover:
+    #image: "maethavee-kay-e-2.jpg"
+    #alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
+    #relative: true
+    #crop: "Smart"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/reading/library"
     Text: "version 02"

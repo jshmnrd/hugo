@@ -5,11 +5,11 @@ tags: ["posts","dnd","books","resources"]
 author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"
-cover:
-    image: "andreas-rocha-readershall01.jpg"
-    alt: "“Reader's Hall” by Andreas Rocha on Artstation"
-    relative: true
-    crop: "Center"
+#cover:
+    #image: "andreas-rocha-readershall01.jpg"
+    #alt: "“Reader's Hall” by Andreas Rocha on Artstation"
+    #relative: true
+    #crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/books"
     Text: "version 01"

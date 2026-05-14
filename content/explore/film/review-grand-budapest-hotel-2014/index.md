@@ -5,11 +5,11 @@ tags: ["posts","film review","film","review"]
 author: ["Joshua Maynard"]
 description: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."
 summary: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."
-cover:
-    image: "grand-budapest-hotel-2014.jpeg"
-    alt: "Screenshot from the film"
-    relative: true
-    crop: "Center"
+#cover:
+    #image: "grand-budapest-hotel-2014.jpeg"
+    #alt: "Screenshot from the film"
+    #relative: true
+    #crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-grand-budapest-hotel-2014"
     Text: "version 01"
