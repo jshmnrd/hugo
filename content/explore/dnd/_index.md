@@ -3,7 +3,7 @@ title: "Dungeons & Dragons"
 description: "Dungeons & Dragons-related posts."
 summary: "Posts in this page are all Dungeons & Dragons-related."
 ShowBreadCrumbs: true
-date: 2026-03-31
+#date: 2026-03-31
 hidemeta: true
 cover:
     image: "wild_boy.gif"

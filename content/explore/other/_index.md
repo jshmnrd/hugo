@@ -3,7 +3,7 @@ title: "Other Stuff"
 description: "Posts related to other/random topics"
 summary: "Posts in this page don't fit in any of the above topics."
 ShowBreadCrumbs: true
-date: 2026-03-01
+#date: 2026-03-01
 hidemeta: true
 cover:
     image: "chill_of_the_wild.gif"
