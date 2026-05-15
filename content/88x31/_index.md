@@ -9,11 +9,11 @@ This is my 88x31 collection, because I can't help but collect things.
 
 ---
 
-<span style="text-align:center;">Link me on your site!</span>
+<p style="text-align:center;">Link me on your site!</p>
 
 <a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="badge" alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>
 
-<button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>'>Copy Code!</button>
+<p style="text-align:center;"><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>'>Copy Code!</button></p>
 
 ---
 
