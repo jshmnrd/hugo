@@ -37,7 +37,7 @@ params:
     googleAnalyticsID: "G-9HLZY4NJ0W"
     DateFormat: "02 Jan 2006"
     defaultTheme: light
-    hideFooter: true
+    hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: false
@@ -63,6 +63,7 @@ params:
           imageUrl: "jm-transparent.PNG"
           imageWidth: 160
           imageHeight: 160
+          disableFooter: true
           buttons:
               - name: about
                 url: about/
