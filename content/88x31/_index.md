@@ -8,9 +8,16 @@ ShowBreadCrumbs: false
 This is my 88x31 collection, because I can't help but collect things.
 
 ---
-Link me!  <button class="copy-btn" data-copy="#">Copy</button>
 
-<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a><a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a><a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>
+<span style="text-align:center;">Link me on your site!</span>
+
+<a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="badge" alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>
+
+<button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>'>Copy Code!</button>
+
+---
+
+<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>
 
 ![jshmnrd.ca](https://jshmnrd.ca/88x31.gif#88x31)  
 ``<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>``
