@@ -19,7 +19,7 @@ ShowBreadCrumbs: false
 <hr>
 
 <h2>Link me on your site!</h2>
-<p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd.gif"><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code</button></p>
+<p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd.gif"><br><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code</button></p>
 
 <hr>
 
@@ -286,6 +286,8 @@ ShowBreadCrumbs: false
   <a href="https://jshmnrd.ca/contact/" target="_blank"><img class="btn" alt="Sign Guestbook" title="Sign my guestbook!" src="signguestbook.gif"></a>
   <!-- Zimbabwe | 2026-05-15 -->
   <img class="btn" alt="Zimbabwe" title="Zimbabwe heritage!" src="zimbabwe.gif">
+  <!-- Powered by Coffee | 2026-05-16 -->
+  <img class="btn" alt="Powered by Coffee" title="Powered by Coffee" src="coffee-powered.gif">
 </p>
 
 <!-- TEMPLATE
