@@ -450,6 +450,13 @@ img.in-text {
     margin: auto;
 }
 
+img.btn {
+    display: inline;
+    margin: auto;
+    max-height: 31px;
+    max-width: 88px;
+}
+
 a[href^="#fn:"], a[href^="#fnref:"] {
     text-decoration: underline 0px solid var(--darkcolor);
 }
