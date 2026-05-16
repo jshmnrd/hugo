@@ -19,6 +19,9 @@ ShowBreadCrumbs: false
 
 <hr>
 
+<button onclick="showPanel('all')">All</button>
+<button onclick="showPanel('categories')">Categories</button>
+
 <div class="button-row">
   <button onclick="showPanel('all')">All</button>
   <button onclick="showPanel('categories')">Categories</button>
