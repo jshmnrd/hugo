@@ -7,8 +7,7 @@ ShowBreadCrumbs: false
 <h1>🎫 88x31 Collection</h1>
 <p>This is my <a href="https://indieweb.org/88x31" target="_blank">88x31</a> collection, because I can't help but collect things. It's not like many collections, I've curated it very specifically and each one means something special. Click one to visit its original site.</p>
 <hr>
-<p style="text-align:center;">Link me on your site!&emsp;&emsp;&emsp;<button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code!</button></p>
-<a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="badge" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+<p class="btns">Link me on your site!&emsp;&emsp;&emsp;<img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">&emsp;&emsp;&emsp;<button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code!</button></p>
 
 <script> /* Copy to clipboard script */
 document.querySelectorAll(".copy-btn").forEach(button => {
@@ -22,18 +21,51 @@ navigator.clipboard.writeText(textToCopy).then(() => {  button.textContent = "Co
 
 <hr>
 
-<p class="btn">
+<p class="btns">
   <!-- jshmnrd    15/05/2026 -->
-  <a href="https://jshmnrd.ca" target="_blank"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+  <a href="#"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
   <!-- NotByAI    15/05/2026 -->
-  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png">
-  </a>
+  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a>
   <!-- IndieWeb   15/05/2026 -->
-  <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif">
-  </a>
+  <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a>
   <!-- Hugo       15/05/2026 -->
-  <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png">
-  </a>
+  <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a>
+  <!-- Powered by Dr. Pepper  15/05/2026 -->
+  <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
+  <!-- ADHD       15/05/2026 -->
+  <img class="btn" alt="ADHD" title="I have extreme ADHD..." src="adhd.png">
+  <!-- jshmnrd    15/05/2026 -->
+  <a href="#"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+  <!-- NotByAI    15/05/2026 -->
+  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a>
+  <!-- IndieWeb   15/05/2026 -->
+  <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a>
+  <!-- Hugo       15/05/2026 -->
+  <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a>
+  <!-- Powered by Dr. Pepper  15/05/2026 -->
+  <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
+  <!-- ADHD       15/05/2026 -->
+  <img class="btn" alt="ADHD" title="I have extreme ADHD..." src="adhd.png">
+  <!-- jshmnrd    15/05/2026 -->
+  <a href="#"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+  <!-- NotByAI    15/05/2026 -->
+  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a>
+  <!-- IndieWeb   15/05/2026 -->
+  <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a>
+  <!-- Hugo       15/05/2026 -->
+  <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a>
+  <!-- Powered by Dr. Pepper  15/05/2026 -->
+  <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
+  <!-- ADHD       15/05/2026 -->
+  <img class="btn" alt="ADHD" title="I have extreme ADHD..." src="adhd.png">
+  <!-- jshmnrd    15/05/2026 -->
+  <a href="#"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+  <!-- NotByAI    15/05/2026 -->
+  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a>
+  <!-- IndieWeb   15/05/2026 -->
+  <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a>
+  <!-- Hugo       15/05/2026 -->
+  <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a>
   <!-- Powered by Dr. Pepper  15/05/2026 -->
   <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
   <!-- ADHD       15/05/2026 -->
