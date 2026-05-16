@@ -66,7 +66,7 @@ ShowBreadCrumbs: false
 
 <p class="btns">
   <!-- Benji Dog -->
-  <a href="https://www.benji.dog/" target="_blank"><img class="btn" alt="Benji.Dog" title="Seems a cool guy..." src="#"></a>
+  <a href="https://www.benji.dog/" target="_blank"><img class="btn" alt="Benji.Dog" title="Seems a cool guy..." src="benjidog.gif"></a>
   <!-- James' Coffee Blog -->
   <a href="https://jamesg.blog/" target="_blank"><img class="btn" alt="James' Coffee Blog" title="James is a big inspiration for me!" src="james-coffee-blog.png"></a>
 </p>
