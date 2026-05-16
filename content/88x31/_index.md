@@ -4,215 +4,269 @@ description: "My 88x31 button collection"
 ShowBreadCrumbs: false
 ---
 
-<h1>🎫 88x31 Collection</h1>
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
+
+<h1><img class="btn" alt="88x31" title="88x31" src="88x31.gif"> 88x31 Collection</h1>
 
 <p>This is my <a href="https://indieweb.org/88x31" target="_blank">88x31</a> collection, because I can't help but collect things. It's not like many collections, I've curated it very specifically and each one means something special. Click one to visit its original site.</p>
+
+<p>The ✌️ emoji in tooltip (example: <span title="this thing --> ✌️">hover mouse here)</span> means I created the button. Either because one for that thing/person didn't exist or because I couldn't find it.</p>
 
 <hr>
 
 <p class="btns"><i>Link me on your site!</i></p>
 <p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></p>
-<p class="btns"><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code!</button></p>
+<p class="btns"><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca ✌️" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code!</button></p>
 
 <hr>
+
+<h2>Favourites</h2>
 
 <!-- TEMPLATE
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
-<h3>Favourites</h3>
-
 <p class="btns">
-  <!-- jshmnrd    15/05/2026 -->
-  <a href="#"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
-  <!-- 88x31 -->
-  <img class="btn" alt="88x31" title="88x31" src="88x31.gif">
-  <!-- NotByAI    15/05/2026 -->
-  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a>
-  <!-- Canadian on the Web -->
+  <!-- NotByAI | 2026-05-15 -->
+  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="notbyai.svg"></a>
+  <!-- Canadian on the Web | 2026-05-15 -->
   <img class="btn" alt="Canadian on the web" title="Canadian on the web" src="canadianontheweb.gif">
-  <!-- IndieWeb   15/05/2026 -->
+  <!-- IndieWeb | 2026-05-15 -->
   <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a>
-  <!-- Hugo       15/05/2026 -->
+  <!-- Hugo | 2026-05-15 -->
   <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a>
-  <!-- I am Canadian -->
+  <!-- I am Canadian | 2026-05-15 -->
   <img class="btn" alt="I am Canadian" title="I am Canadian" src="iamcanadian.gif"></a>
-  <!-- Powered by Dr. Pepper  15/05/2026 -->
+  <!-- Powered by Dr. Pepper | 2026-05-15 -->
   <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
-  <!-- ADHD       15/05/2026 -->
+  <!-- ADHD | 2026-05-15 -->
   <img class="btn" alt="ADHD" title="I have extreme ADHD..." src="adhd.png">
-  <!-- Eh? -->
+  <!-- Eh? | 2026-05-15 -->
   <img class="btn" alt="Eh?" title="Eh?" src="eh.gif">
-  <!-- Miku Approved -->
+  <!-- Miku Approved | 2026-05-15 -->
   <img class="btn" alt="this site is Miku approved" title="this site is Miku approved" src="miku.gif"></a>
-  <!-- Pizzza -->
+  <!-- Pizzza | 2026-05-15 -->
   <img class="btn" alt="Pizzza" title="Pizzza" src="pizzza.gif">
-  <!-- Zimbabew -->
+  <!-- Zimbabwe | 2026-05-15 -->
   <img class="btn" alt="Zimbabwe" title="Zimbabwe" src="zimbabwe.gif">
 </p>
 
 <hr>
 
-<h3>Movements / Causes / Beliefs</h3>
+<h2>Movements / Causes / Beliefs</h2>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
 
 <p class="btns">
-  <!-- Anything but Chrome -->
+  <!-- Anything but Chrome | 2026-05-15 -->
   <a href="https://killedbygoogle.com/" target="_blank"><img class="btn" alt="Anything but Chrome" title="Use Firefox!!" src="anythingbutchrome.gif"></a>
-  <!-- I Hate Squarespace -->
+  <!-- I Hate Squarespace | 2026-05-15 -->
   <img class="btn" alt="I hate Squarespace." title="I have squarespace!!" src="ihatesquarespace.jpg">
-  <!-- Not By AI -->
-  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a>
-  <!-- Right to Repair -->
+  <!-- Right to Repair | 2026-05-15 -->
   <a href="https://www.ifixit.com/right-to-repair-action" target="_blank"><img class="btn" alt="I support right to repair" title="I support right to repair" src="righttorepair.gif"></a>
-  <!-- Stop Killing Games -->
-  <a href="https://www.stopkillinggames.com/" target="_blank"><img class="btn" alt="Stop Killing Games" title="Stop Killing Games" src="stopkillinggames.gif"></a>
-  <!-- Ukraine -->
+  <!-- Stop Killing Games ✌️ | 2026-05-15 -->
+  <a href="https://www.stopkillinggames.com/" target="_blank"><img class="btn" alt="Stop Killing Games" title="Stop Killing Games ✌️" src="stopkillinggames.gif"></a>
+  <!-- Ukraine | 2026-05-15 -->
   <img class="btn" alt="Ukraine flag" title="I stand with Ukraine" src="ukraine.png">
-  <!-- Open Source -->
+  <!-- Open Source | 2026-05-15 -->
   <a href="https://github.com/jshmnrd/hugo/" target="_blank"><img class="btn" alt="Open Source" title="Visit the GitHub repo for this website." src="open-source.png"></a>
+  <!-- ISO 8601 | 2026-05-16 -->
+  <a href="https://en.wikipedia.org/wiki/ISO_8601" target="_blank"><img class="btn" alt="ISO  8601" title="ISO 8601 - the correct date & time format!" src="iso8601.jpg"></a>
+</p>
+
+<h3>Anti-AI</h3>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
+
+<p>A.I. will ruin the world.</p>
+
+<p class="btns">
+  <!-- NotByAI | 2026-05-15 -->
+  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="notbyai.svg"></a>
+  <!-- NoAI | 2026-05-16 -->
+  <a href="https://chriskirknielsen.com/blog/no-ai-icon-for-humans/" target="_blank"><img class="btn" alt="No AI (Chris Kirk Nielsen's design)" title="My site is NOT created with any AI!" src="no-ai.svg"></a>
+  <!-- Andy Carolan - Made by a Human | 2026-05-16 -->
+  <a href="https://ko-fi.com/s/4662b19f61" target="_blank"><img class="btn" alt="made by a human (Andy Carolan's design)" title="My site is NOT created with any AI!" src="madebyahuman.svg"></a>
 </p>
 
 <hr>
 
-<h3>People</h3>
+<h2>People</h2>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
 
 <p class="btns">
-  <!-- Benji Dog -->
-  <a href="https://www.benji.dog/" target="_blank"><img class="btn" alt="Benji.Dog" title="Seems a cool guy..." src="benjidog.gif"></a>
-  <!-- James' Coffee Blog -->
-  <a href="https://jamesg.blog/" target="_blank"><img class="btn" alt="James' Coffee Blog" title="James is a big inspiration for me!" src="james-coffee-blog.png"></a>
-  <!-- Hellnet.work -->
+  <!-- Aditya Telange ✌️ | 2026-05-16 -->
+  <a href="https://adityatelange.in/" target="_blank"><img class="btn" alt="Aditya Telange" title='Creator of the "PaperMod" Hugo theme I'm using on this website. ✌️' src="adityatelange.png"></a>
+  <!-- Robert Birming ✌️ | 2026-05-16 -->
+  <a href="https://robertbirming.com/" target="_blank"><img class="btn" alt="Robert Birming" title="Robert Birming - my internet oshi! ✌️" src="birming.png"></a>
+  <!-- Meadow ✌️ | 2026-05-16 -->
+  <a href="https://meadow.cafe/" target="_blank"><img class="btn" alt="Meadow.cafe" title="Meadow - a HUGE inspiration to me! ✌️" src="meadow.png"></a>
+  <!-- Benji Dog | 2026-05-15 -->
+  <a href="https://www.benji.dog/" target="_blank"><img class="btn" alt="Benji.Dog" title="Check out his film & book reviews!" src="benjidog.gif"></a>
+  <!-- James' Coffee Blog | 2026-05-15 -->
+  <a href="https://jamesg.blog/" target="_blank"><img class="btn" alt="James' Coffee Blog" title='"with words, wonder."' src="james-coffee-blog.png"></a>
+  <!-- Hellnet.work | 2026-05-16 -->
   <a href="https://hellnet.work/" target="_blank"><img class="btn" alt="hellnet.work" title="hellnet.work" src="hellnetwork.gif"></a>
-  <!-- Pilosophos -->
+  <!-- Pilosophos | 2026-05-16 -->
   <a href="https://pilosophos.com/" target="_blank"><img class="btn" alt="Pilosophos" title="Pilosophos" src="pilosophos.png"></a>
-  <!-- Scott Games -->
+  <!-- Scott Games | 2026-05-16 -->
   <img class="btn" alt="ScottGames" title="ScottGames" src="scottgames.gif">
 </p>
 
 <hr>
 
-<h3>Tools & Websites</h3>
+<h2>Tools & Websites</h2>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
 
 <p class="btns">
-  <!-- Stampbook -->
+  <!-- 32-Bit Cafe | 2026-05-16 -->
+  <a href="https://32bit.cafe/" target="_blank"><img class="btn" alt="32-Bit Cafe" title="32-Bit Cafe" src="32bitcafe.png"></a>
+  <!-- Stampbook | 2026-05-16 -->
   <a href="https://stampbook.neocities.org/" target="_blank"><img class="btn" alt="Stampbook" title="Extension that collects 88x31 buttons (like this one!)" src="stampbook.svg"></a>
-  <!-- DaFont -->
+  <!-- DaFont | 2026-05-15 -->
   <a href="https://www.dafont.com/" target="_blank"><img class="btn" alt="DaFont" title="Free fonts!" src="dafont.gif"></a>
-  <!-- Internet Archive -->
+  <!-- Internet Archive | 2026-05-15 -->
   <a href="https://archive.org/" target="_blank"><img class="btn" alt="Internet Archive" title="Internet Archive" src="internet-archive.gif"></a>
-  <!-- Mastodon -->
+  <!-- Mastodon | 2026-05-15 -->
   <a href="https://mstdn.ca/@jshmnrd" target="_blank"><img class="btn" alt="Mastodon" title="Follow me on Mastodon" src="mastodon.png"></a>
-  <!-- SCP -->
+  <!-- SCP | 2026-05-15 -->
   <a href="https://scp-wiki.wikidot.com/" target="_blank"><img class="btn" alt="SCP" title="SCP Foundation" src="scp.gif"></a>
-  <!-- Firefox -->
+  <!-- Firefox | 2026-05-15 -->
   <a href="https://www.firefox.com/" target="_blank"><img class="btn" alt="Firefox" title="Firefox" src="firefox.gif"></a>
-  <!-- Get Firefox -->
+  <!-- Get Firefox | 2026-05-15 -->
   <a href="https://www.firefox.com/" target="_blank"><img class="btn" alt="Get Firefox" title="Get Firefox" src="getfirefox.gif"></a>
-  <!-- GitHub -->
+  <!-- GitHub | 2026-05-15 -->
   <a href="https://github.com/jshmnrd" target="_blank"><img class="btn" alt="GitHub" title="GitHub" src="github.gif"></a>
-  <!-- Newgrounds -->
+  <!-- Newgrounds | 2026-05-15 -->
   <a href="https://www.newgrounds.com/" target="_blank"><img class="btn" alt="Newgrounds" title="Newgrounds" src="newground.gif"></a>
-  <!-- Notepad++ -->
+  <!-- Notepad++ | 2026-05-15 -->
   <a href="https://notepad-plus-plus.org/" target="_blank"><img class="btn" alt="Notepad++" title="Best plain text editor out there!" src="notepad++.gif"></a>
-  <!-- VSCode -->
+  <!-- VSCode | 2026-05-15 -->
   <a href="https://code.visualstudio.com/" target="_blank"><img class="btn" alt="VSCode" title="VSCode" src="vscode.gif"></a>
-  <!-- Wikipedia -->
+  <!-- Wikipedia | 2026-05-15 -->
   <a href="https://wikipedia.org/" target="_blank"><img class="btn" alt="Wikipedia" title="Wikipedia" src="wikipedia.png"></a>
+  <!-- Johnny Decimal | 2026-05-16 -->
+  <a href="https://johnnydecimal.com/" target="_blank"><img class="btn" alt="Powered by Johnny Decimal" title="use the Johnny Decimal system!" src="johnnydecimal.png"></a>
+  
 </p>
 
 <hr>
 
-<h3>Cinnamoroll!</h3>
+<h2>Cinnamoroll!</h2>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
 
 <p class="btns">
-  <!-- Cinnamoroll 01  15/05/2026-->
+  <!-- Cinnamoroll 01  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-01.gif">
-  <!-- Cinnamoroll 02  15/05/2026-->
+  <!-- Cinnamoroll 02  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-02.webp">
-  <!-- Cinnamoroll 03  15/05/2026-->
+  <!-- Cinnamoroll 03  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-03.gif">
-  <!-- Cinnamoroll 04  15/05/2026-->
+  <!-- Cinnamoroll 04  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-04.gif">
-  <!-- Cinnamoroll 05  15/05/2026-->
+  <!-- Cinnamoroll 05  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-05.gif">
-  <!-- Cinnamoroll 06  15/05/2026-->
+  <!-- Cinnamoroll 06  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-06.gif">
-  <!-- Cinnamoroll 07  15/05/2026-->
+  <!-- Cinnamoroll 07  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif">
-  <!-- Cinnamoroll 08  15/05/2026-->
+  <!-- Cinnamoroll 08  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-08.gif">
-  <!-- Cinnamoroll 09  15/05/2026-->
+  <!-- Cinnamoroll 09  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-09.gif">
-  <!-- Cinnamoroll 10  15/05/2026-->
+  <!-- Cinnamoroll 10  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-10.gif">
-  <!-- Cinnamoroll 11  15/05/2026-->
+  <!-- Cinnamoroll 11  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-11.gif">
-  <!-- Cinnamoroll 12  15/05/2026-->
+  <!-- Cinnamoroll 12  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-12.gif">
-  <!-- Cinnamoroll 13  15/05/2026-->
+  <!-- Cinnamoroll 13  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-13.gif">
-  <!-- Cinnamoroll 14  15/05/2026-->
+  <!-- Cinnamoroll 14  | 2026-05-15 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-14.gif">
-  <!-- Cinnamoroll 15  15/05/2026-->
+  <!-- Cinnamoroll 15  | 2026-05-16 -->
   <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamonoll.gif">
 </p>
 
 <hr>
 
-<h3>Games</h3>
+<h2>Games</h2>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
 
 <p class="btns">
-  <!-- Minecraft -->
+  <!-- Minecraft | 2026-05-16 -->
   <a href="https://minecraft.net/" target="_blank"><img class="btn" alt="Minecraft" title="Minecraft" src="minecraft.gif"></a>
-  <!-- Terraria -->
+  <!-- Terraria | 2026-05-16 -->
   <a href="https://terraria.org/" target="_blank"><img class="btn" alt="Terraria" title="Terraria!" src="terraria.gif"></a>
-  <!-- Stardew Valley -->
+  <!-- Stardew Valley | 2026-05-16 -->
   <a href="https://store.steampowered.com/app/413150/Stardew_Valley/" target="_blank"><img class="btn" alt="Stardew Valley" title="Stardew Valley" src="stardew-valley.gif"></a>
 </p>
 
 <hr>
 
-<h3>Other</h3>
+<h2>Other</h2>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
 
 <p class="btns">
-  <!-- Have a Smile -->
+  <!-- Have a Smile | 2026-05-15 -->
   <img class="btn" alt="Have a smile" title=":)" src="haveasmile.png">
-  <!-- White Monster -->
+  <!-- White Monster | 2026-05-15 -->
   <img class="btn" alt="White Monster" title="White Monster is the best!" src="whitemonster.png">
-  <!-- Join Discord -->
+  <!-- Join Discord | 2026-05-15 -->
   <!-- <a href="#" target="_blank"><img class="btn" alt="Discord JOIN NOW!" title="Join my Discord!" src="discord-joinnow.gif"></a> -->
-  <!-- Domo -->
+  <!-- Domo | 2026-05-16 -->
   <img class="btn" alt="Domo-Kun Now!" title="Domo-kun" src="domo-kun-now.webp">
-  <!-- Graveyard -->
+  <!-- Graveyard | 2026-05-15 -->
   <img class="btn" alt="Graveyard" title="Graveyard" src="ghostwalker.png">
-  <!-- Glizzy -->
+  <!-- Glizzy | 2026-05-15 -->
   <img class="btn" alt="Glizzy" title="Glizzy" src="glizzy.gif">
-  <!-- Kool Aid -->
+  <!-- Kool Aid | 2026-05-16 -->
   <img class="btn" alt="Kool-Aid" title="Kool-Aid" src="koolaid.gif">
-  <!-- Korn -->
+  <!-- Korn | 2026-05-16 -->
   <a href="https://kornofficial.com/" target="_blank"><img class="btn" alt="Korn" title="Korn" src="korn.png"></a>
-  <!-- MP3 -->
+  <!-- MP3 | 2026-05-16 -->
   <audio id="aah" src="aah.ogg"></audio>
   <span onclick="document.getElementById('aah').play()" onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="MP3" title="Aah!" src="mp3com.gif"></span>
-  <!-- RSS -->
+  <!-- RSS | 2026-05-16 -->
   <a href="https://jshmnrd.ca/index.xml" target="_blank"><img class="btn" alt="RSS" title="RSS feed" src="rss.gif"></a>
-  <!-- Star Wars -->
+  <!-- Star Wars | 2026-05-16 -->
   <img class="btn" alt="Star Wars Addict" title="Star Wars Addict!" src="starwars-addict.gif">
-  <!-- Powered by the void -->
+  <!-- Powered by the void | 2026-05-16 -->
   <img class="btn" alt="Powered by The Void" title="Powered by The Void" src="thevoid.gif">
-  <!-- Twitter -->
+  <!-- Twitter | 2026-05-16 -->
   <a href="https://twitter.com/bigMoosse" target="_blank"><img class="btn" alt="Twitter" title="Follow me @bigMoosse" src="twitter.gif"></a>
-  <!-- VHS -->
+  <!-- VHS | 2026-05-16 -->
   <img class="btn" alt="VHS" title="VHS" src="vhs.gif">
-  <!-- Webkinz -->
+  <!-- Webkinz | 2026-05-16 -->
   <img class="btn" alt="Webkinz" title="Webkinz" src="webkinz.png">
-  <!-- Windows XP -->
+  <!-- Windows XP | 2026-05-16 -->
   <img class="btn" alt="Windows XP" title="Windows XP" src="xp.gif">
-  <!-- Yoshi Hatch -->
+  <!-- Yoshi Hatch | 2026-05-16 -->
   <img class="btn" alt="Yoshi" title="Yoshi" src="yoshihatch.gif">
-  <!-- Pizza -->
+  <!-- Pizza | 2026-05-16 -->
   <img class="btn" alt="Pizza Powered" title="Pizza Powered" src="pizza.svg">
-  <!-- Guestbook -->
+  <!-- Guestbook | 2026-05-16 -->
   <a href="https://jshmnrd.ca/contact/" target="_blank"><img class="btn" alt="Sign Guestbook" title="Sign my guestbook!" src="signguestbook.gif"></a>
 </p>
 
