@@ -1,5 +1,5 @@
 ---
-title: "🎫 88x31 Collection" 
+title: "88x31 Collection" 
 description: "My 88x31 button collection"
 ShowBreadCrumbs: false
 ---
@@ -8,17 +8,18 @@ ShowBreadCrumbs: false
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
-<h1><img class="btn" alt="88x31" title="88x31" src="88x31.gif"> 88x31 Collection</h1>
+<h1><img class="btn" alt="88x31" title="88x31" src="88x31.gif"> Button Collection</h1>
 
-<p>This is my <a href="https://indieweb.org/88x31" target="_blank">88x31</a> collection, because I can't help but collect things. It's not like many collections, I've curated it very specifically and each one means something special. Click one to visit its original site.</p>
+<p>This is my <a href="https://indieweb.org/88x31" target="_blank">88x31</a> button collection, because I can't help but collect things. It's not like many collections, I've curated it very specifically and each one means something special. Click one to visit its original site.</p>
 
-<p>The ✌️ emoji in tooltip (example: <span title="this thing --> ✌️">hover mouse here)</span> means I created the button. Either because one for that thing/person didn't exist or because I couldn't find it.</p>
+<p>The ✌️ emoji in tooltip (example: <span onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'" title="this thing --> ✌️">hover mouse here)</span> means I created the button. Either because one for that thing/person didn't exist or because I couldn't find it.</p>
+
+<p>All links will open in new tabs</p>
 
 <hr>
 
-<p class="btns"><i>Link me on your site!</i></p>
-<p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></p>
-<p class="btns"><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca ✌️" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code!</button></p>
+<h2>Link me on your site!</h2>
+<p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd.gif"><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code</button></p>
 
 <hr>
 
@@ -31,26 +32,37 @@ ShowBreadCrumbs: false
 <p class="btns">
   <!-- NotByAI | 2026-05-15 -->
   <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="notbyai.svg"></a>
-  <!-- Canadian on the Web | 2026-05-15 -->
-  <img class="btn" alt="Canadian on the web" title="Canadian on the web" src="canadianontheweb.gif">
   <!-- IndieWeb | 2026-05-15 -->
   <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a>
   <!-- Hugo | 2026-05-15 -->
   <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a>
-  <!-- I am Canadian | 2026-05-15 -->
-  <img class="btn" alt="I am Canadian" title="I am Canadian" src="iamcanadian.gif"></a>
   <!-- Powered by Dr. Pepper | 2026-05-15 -->
   <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
   <!-- ADHD | 2026-05-15 -->
   <img class="btn" alt="ADHD" title="I have extreme ADHD..." src="adhd.png">
-  <!-- Eh? | 2026-05-15 -->
-  <img class="btn" alt="Eh?" title="Eh?" src="eh.gif">
   <!-- Miku Approved | 2026-05-15 -->
   <img class="btn" alt="this site is Miku approved" title="this site is Miku approved" src="miku.gif"></a>
   <!-- Pizzza | 2026-05-15 -->
   <img class="btn" alt="Pizzza" title="Pizzza" src="pizzza.gif">
-  <!-- Zimbabwe | 2026-05-15 -->
-  <img class="btn" alt="Zimbabwe" title="Zimbabwe" src="zimbabwe.gif">
+  <!-- Gameboy | 2026-05-16 -->
+  <a href="https://zakhary.dev/blog/gbc-web-button" target="_blank"><img class="btn" alt="GAMEBOY" title="Created by Zakhary Kaplan, a fellow Canadian!" src="gameboy.gif"></a>
+</p>
+
+<hr>
+
+<h2>Canadian Pride!</h2>
+
+<!-- TEMPLATE
+  <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
+-->
+
+<p class="btns">
+  <!-- Canadian on the Web | 2026-05-15 -->
+  <img class="btn" alt="Canadian on the web" title="Canadian on the web" src="canadianontheweb.gif">
+  <!-- I am Canadian | 2026-05-15 -->
+  <img class="btn" alt="I am Canadian" title="I am Canadian" src="iamcanadian.gif"></a>
+  <!-- Eh? | 2026-05-15 -->
+  <img class="btn" alt="Eh?" title="Eh?" src="eh.gif">
 </p>
 
 <hr>
@@ -84,7 +96,7 @@ ShowBreadCrumbs: false
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
-<p>A.I. will ruin the world.</p>
+<p><i>A.I. will ruin the world.</i></p>
 
 <p class="btns">
   <!-- NotByAI | 2026-05-15 -->
@@ -103,9 +115,11 @@ ShowBreadCrumbs: false
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
+<p>I don't <i>know</i> any of these people, and they don't know me, but I appreciate them all!</p>
+
 <p class="btns">
   <!-- Aditya Telange ✌️ | 2026-05-16 -->
-  <a href="https://adityatelange.in/" target="_blank"><img class="btn" alt="Aditya Telange" title='Creator of the "PaperMod" Hugo theme I'm using on this website. ✌️' src="adityatelange.png"></a>
+  <a href="https://adityatelange.in/" target="_blank"><img class="btn" alt="Aditya Telange" title="Creator of the “Papermod” Hugo theme I'm using on this website. ✌️" src="adityatelange.png"></a>
   <!-- Robert Birming ✌️ | 2026-05-16 -->
   <a href="https://robertbirming.com/" target="_blank"><img class="btn" alt="Robert Birming" title="Robert Birming - my internet oshi! ✌️" src="birming.png"></a>
   <!-- Meadow ✌️ | 2026-05-16 -->
@@ -120,6 +134,8 @@ ShowBreadCrumbs: false
   <a href="https://pilosophos.com/" target="_blank"><img class="btn" alt="Pilosophos" title="Pilosophos" src="pilosophos.png"></a>
   <!-- Scott Games | 2026-05-16 -->
   <img class="btn" alt="ScottGames" title="ScottGames" src="scottgames.gif">
+  <!-- Robb Knight | 2026-05-16 -->
+  <a href="https://rknight.me/" target="_blank"><img class="btn" alt="Robb Knight" title="Robb Knight" src="robbknight.gif"></a>
 </p>
 
 <hr>
@@ -268,19 +284,16 @@ ShowBreadCrumbs: false
   <img class="btn" alt="Pizza Powered" title="Pizza Powered" src="pizza.svg">
   <!-- Guestbook | 2026-05-16 -->
   <a href="https://jshmnrd.ca/contact/" target="_blank"><img class="btn" alt="Sign Guestbook" title="Sign my guestbook!" src="signguestbook.gif"></a>
+  <!-- Zimbabwe | 2026-05-15 -->
+  <img class="btn" alt="Zimbabwe" title="Zimbabwe heritage!" src="zimbabwe.gif">
 </p>
 
 <!-- TEMPLATE
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
+<hr>
 
 <i>More to come!</i>
-
-<!-- white-monster https://www.tumblr.com/michaelmurder/800474941646635008/monster-energy-can-buttons?source=share -->
-
-<!-- cinnamoroll https://caramelpuddinz.neocities.org/cinnamoroll -->
-
-<!-- https://88x31.kate.pet/ -->
 
 <script> /* Copy to clipboard script */
   document.querySelectorAll(".copy-btn").forEach(button => {
