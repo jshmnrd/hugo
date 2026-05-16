@@ -14,7 +14,7 @@ ShowBreadCrumbs: false
 
 <p>The ✌️ emoji in tooltip (example: <span onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'" title="this thing --> ✌️">hover mouse here)</span> means I created the button. Either because one for that thing/person didn't exist or because I couldn't find it.</p>
 
-<p>All links will open in new tabs</p>
+<p>All links will open in new tabs.</p>
 
 <hr>
 
