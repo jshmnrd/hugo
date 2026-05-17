@@ -47,6 +47,10 @@
 
 .copy-img {
     cursor: pointer;
+    display: inline;
+    margin: auto;
+    max-height: 31px;
+    max-width: 88px;
 }
 
 .button-inner {
