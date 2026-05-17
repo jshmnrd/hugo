@@ -36,6 +36,7 @@ ShowBreadCrumbs: false
 -->
 
 <div id="all" class="panel active">
+  <h2>All Buttons</h2>
   <p class="btns">
   <!-- alpha-# -->
     <!-- 32-Bit Cafe | 2026-05-16 -->
@@ -241,7 +242,8 @@ ShowBreadCrumbs: false
 -->
 
 <div id="categories" class="panel">
-  <h2>Favourites</h2>
+  <h2>Button Categories</h2>
+  <h3>Favourites</h3>
   <p class="btns">
     <!-- NotByAI | 2026-05-15 -->
     <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="notbyai.svg"></a>
@@ -261,7 +263,7 @@ ShowBreadCrumbs: false
     <a href="https://zakhary.dev/blog/gbc-web-button" target="_blank"><img class="btn" alt="GAMEBOY" title="Created by Zakhary Kaplan, a fellow Canadian!" src="gameboy.gif"></a>
   </p>
   <hr>
-  <h2>Canadian Pride!</h2>
+  <h3>Canadian Pride!</h3>
   <p class="btns">
     <!-- Canadian on the Web | 2026-05-15 -->
     <img class="btn" alt="Canadian on the web" title="Canadian on the web" src="canadianontheweb.gif">
@@ -271,7 +273,7 @@ ShowBreadCrumbs: false
     <img class="btn" alt="Eh?" title="Eh?" src="eh.gif">
   </p>
   <hr>
-  <h2>Movements / Causes / Beliefs</h2>
+  <h3>Movements / Causes / Beliefs</h3>
   <p class="btns">
     <!-- Anything but Chrome | 2026-05-15 -->
     <a href="https://killedbygoogle.com/" target="_blank"><img class="btn" alt="Anything but Chrome" title="Use Firefox!!" src="anythingbutchrome.gif"></a>
@@ -288,7 +290,7 @@ ShowBreadCrumbs: false
     <!-- ISO 8601 | 2026-05-16 -->
     <a href="https://en.wikipedia.org/wiki/ISO_8601" target="_blank"><img class="btn" alt="ISO  8601" title="ISO 8601 - the correct date & time format!" src="iso8601.jpg"></a>
   </p>
-  <h3>Anti-AI</h3>
+  <h4>Anti-AI</h4>
   <p><i>A.I. will ruin the world.</i></p>
   <p class="btns">
     <!-- NotByAI | 2026-05-15 -->
@@ -299,7 +301,7 @@ ShowBreadCrumbs: false
     <a href="https://ko-fi.com/s/4662b19f61" target="_blank"><img class="btn" alt="made by a human (Andy Carolan's design)" title="My site is NOT created with any AI!" src="madebyahuman.svg"></a>
   </p>
   <hr>
-  <h2>People</h2>
+  <h3>People</h3>
   <p>I don't <i>know</i> any of these people, and they don't know me, but I appreciate them all!</p>
   <p class="btns">
     <!-- Aditya Telange ✌️ | 2026-05-16 -->
@@ -322,7 +324,7 @@ ShowBreadCrumbs: false
     <a href="https://rknight.me/" target="_blank"><img class="btn" alt="Robb Knight" title="Robb Knight" src="robbknight.gif"></a>
   </p>
   <hr>
-  <h2>Tools & Websites</h2>
+  <h3>Tools & Websites</h3>
   <p class="btns">
     <!-- 32-Bit Cafe | 2026-05-16 -->
     <a href="https://32bit.cafe/" target="_blank"><img class="btn" alt="32-Bit Cafe" title="32-Bit Cafe" src="32bitcafe.png"></a>
@@ -354,7 +356,7 @@ ShowBreadCrumbs: false
     <a href="https://johnnydecimal.com/" target="_blank"><img class="btn" alt="Powered by Johnny Decimal" title="use the Johnny Decimal system!" src="johnnydecimal.png"></a>
   </p>
   <hr>
-  <h2>Cinnamoroll!</h2>
+  <h3>Cinnamoroll!</h3>
   <p class="btns">
     <!-- Cinnamoroll 01  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-01.gif">
@@ -388,7 +390,7 @@ ShowBreadCrumbs: false
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamonoll.gif">
   </p>
   <hr>
-  <h2>Games</h2>
+  <h3>Games</h3>
   <p class="btns">
     <!-- Minecraft | 2026-05-16 -->
     <a href="https://minecraft.net/" target="_blank"><img class="btn" alt="Minecraft" title="Minecraft" src="minecraft.gif"></a>
@@ -398,7 +400,7 @@ ShowBreadCrumbs: false
     <a href="https://store.steampowered.com/app/413150/Stardew_Valley/" target="_blank"><img class="btn" alt="Stardew Valley" title="Stardew Valley" src="stardew-valley.gif"></a>
   </p>
   <hr>
-  <h2>Other</h2>
+  <h3>Other</h3>
   <p class="btns">
     <!-- Have a Smile | 2026-05-15 -->
     <img class="btn" alt="Have a smile" title=":)" src="haveasmile.png">
