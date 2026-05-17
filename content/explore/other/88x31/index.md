@@ -37,7 +37,10 @@ ShowWordCount: false
 <hr>
 
 <h2>Link me on your site!</h2>
-<p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd.gif"><br><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd.gif"></a>'>Copy Embed Code</button></p>
+<p>Click to copy html embed!<br>
+<!-- v01 2026-05-15 --><a class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-01.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-01.gif"></a>
+<!-- v02 2026-05-17 --><a class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-02.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-02.gif"></a>
+</p>
 
 <hr>
 
@@ -155,7 +158,7 @@ ShowWordCount: false
     <!-- Johnny Decimal | 2026-05-16 -->
     <a href="https://johnnydecimal.com/" target="_blank"><img class="btn" alt="Powered by Johnny Decimal" title="use the Johnny Decimal system!" src="johnnydecimal.png"></a>
     <!-- jshmnrd | 2026-05-15 -->
-    <img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd.gif">
+    <img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-01.gif">
   <!-- alpha-K -->
     <!-- Kool Aid | 2026-05-16 -->
     <img class="btn" alt="Kool-Aid" title="Kool-Aid" src="koolaid.gif">
