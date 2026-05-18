@@ -11,16 +11,37 @@ summary: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."
     #relative: true
     #crop: "Center"
 editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-grand-budapest-hotel-2014"
-    Text: "version 01"
+    URL: "https://letterboxd.com/jshmnrd/film/the-grand-budapest-hotel/"
+    Text: "My Review on Letterboxd"
 showToc: false
+TocOpen: false
 disableAnchoredHeadings: false
 ShowWordCount: true
+#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-grand-budapest-hotel-2014
 ---
+<a class="copy-btn" href="https://letterboxd.com/film/the-grand-budapest-hotel/">Letterboxd</a> <a class="copy-btn" href="http://www.imdb.com/title/tt2278388/">IMDb</a> <a class="copy-btn" href="https://www.themoviedb.org/movie/120467/">TMDB</a>
+![Grand Budapest Hotel (2014) cover & screenshot](grand-budapest-hotel.jpg)
+<table width="100%">
+    <tr>
+        <th width="33.3333%">Originally Watched</th>
+        <th width="33.3333%">Review Written</th>
+        <th width="33.3333%">Star Rating</th>
+    </tr>
+    <tr>
+        <td>2026-04-12</td>
+        <td>2026-04-12</td>
+        <td>
+            4.5 / 5
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
+        </td>
+    </tr>
+</table>
 
-[My review on Letterboxd](https://letterboxd.com/jshmnrd/film/the-grand-budapest-hotel/)
-
-#### Introduction
+# Introduction
 
 <p>I tried a new (for me) format for this one, by time-stamping my thoughts as I had them, while watching the film. I probably won’t do this again, but I'm glad I did it because now I know. Interrupting the movie every time I had a thought and/or wanted to make a note was more disruptive to my viewing experience than I had anticipated. Regardless of that, here are my thoughts. Anything I added after the fact are encased in braces {}.</p>
 
@@ -40,6 +61,6 @@ ShowWordCount: true
 
 <b>[<span style="color:var(--darkcolor);">1h 34m 26s</span>]</b>&emsp;That seemed something of an abrupt ending, but also not abrupt. I don’t know how to describe that.
 
-#### Conclusion
+# Conclusion
 
 I enjoyed this film. The humour, pacing, cinematography - it was all excellent. I feel like there's a lot of hype around Wes Anderson, and for good reason, but my favourite part of the film was the cast. Especially Ralph Fiennes, I really admire his acting skills. I think he has really good range, and can easily make me either root for or against him.

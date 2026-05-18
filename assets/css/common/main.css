@@ -83,3 +83,39 @@ pre:hover .copy-code {
   background: var(--darkcolor);
   color: var(--theme);
 }
+
+/* Notion-Like Callouts. Original: https://mighil.com/notion-like-callouts */
+.callout {
+    font-size:95%;
+    padding: 16px;
+    color: var(--entry);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+}
+.grey_callout {
+    background: rgb(241, 241, 239);
+}
+.brown_callout {
+    background: rgb(244, 238, 238);
+}
+.orange_callout {
+    background: rgb(251, 236, 221);
+}
+.yellow_callout {
+    background: rgb(251, 243, 219);
+}
+.green_callout {
+    background: rgb(237, 243, 236);
+}
+.blue_callout {
+     background: rgb(231, 243, 248);
+}
+.purple_callout {
+    background: rgba(244, 240, 247, 0.8);
+}
+.pink_callout {
+    background: rgba(249, 238, 243, 0.8);
+}
+.red_callout {
+    background: rgb(253, 235, 236);
+}

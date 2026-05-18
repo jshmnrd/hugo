@@ -11,16 +11,35 @@ summary: "My review of Emperor (2012)"
     #relative: true
     #crop: "Top"
 editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-emperor-2012"
-    Text: "version 01"
+    URL: "https://letterboxd.com/jshmnrd/film/emperor-2012/"
+    Text: "My Review on Letterboxd"
 showToc: true
+TocOpen: false
 disableAnchoredHeadings: false
 ShowWordCount: true
+#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-emperor-2012
 ---
-
-[My review on Letterboxd](https://letterboxd.com/jshmnrd/film/emperor-2012/)
-
-<span style="text-align:center;">[<a href="https://www.imdb.com/title/tt2103264/" target="_blank">IMDb</a>]&emsp;[<a href="https://letterboxd.com/film/emperor-2012/" target="_blank">Letterboxd</a>]&emsp;[<a href="https://www.themoviedb.org/movie/127372-emperor" target="_blank">TMDB</a>]</span>
+<a class="copy-btn" href="https://letterboxd.com/film/emperor-2012/">Letterboxd</a> <a class="copy-btn" href="http://www.imdb.com/title/tt2103264/">IMDb</a> <a class="copy-btn" href="https://www.themoviedb.org/movie/127372/">TMDB</a>
+![Emperor (2012) cover & screenshot](emperor.jpg)
+<table width="100%">
+    <tr>
+        <th width="33.3333%">Originally Watched</th>
+        <th width="33.3333%">Review Written</th>
+        <th width="33.3333%">Star Rating</th>
+    </tr>
+    <tr>
+        <td>2026-04-25</td>
+        <td>2026-04-25</td>
+        <td>
+            4.5 / 5
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
+        </td>
+    </tr>
+</table>
 
 ## Initial Thoughts
 I'm watching this film because I saw a clip of it on YouTube Shorts. In honestly, it's how I decide to watch a lot of the films I watch. I went into this with little to no knowledge on the topic, aside from what I <s>learned</s> <i>remember</i> about WWII from grade 10 history class (10 years ago as I write this). It should be fun!
