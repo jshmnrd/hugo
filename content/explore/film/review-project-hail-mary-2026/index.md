@@ -30,9 +30,11 @@ ShowWordCount: true
         <td>2026-05-11</td>
         <td>2026-05-18</td>
         <td>
-            {{ partial "svg.html" (dict "name" "star" "class" "filled") }}
-            {{ partial "svg.html" (dict "name" "star" "class" "half") }}
-            {{ partial "svg.html" (dict "name" "star" "class" "empty") }}
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+            <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
         </td>
     </tbody>
 </table>

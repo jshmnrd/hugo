@@ -31,8 +31,6 @@
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
     --profile-button: rgb(214, 214, 214);
-    --star-filled: rgb(61, 146, 104);
-    --star-empty: rgb(214, 214, 214);
 
     /* dark colours
     --theme: rgb(29, 30, 32);
@@ -45,8 +43,6 @@
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
     --profile-button: rgb(33, 34, 37);
-    --star-filled: rgb(61, 146, 104);
-    --star-empty: rgb(33, 34, 37);
     */
 
     --gray: rgb(165, 165, 165);

@@ -451,13 +451,17 @@ img.in-text {
     margin: auto;
 }
 
-.post-content img[src*="#star"] { /* For star ratings on film reviews */
+img.star { /* For star ratings on film reviews */
     display: inline;
+    max-height: 24px;
     margin: auto;
-    max-height: var(--textsize);
 }
 
-img[src*="#center"]
+.post-content img[src*="#star"] { /* For star ratings on film reviews */
+    display: inline;
+    max-height: 24px;
+    margin: auto;
+}
 
 img.btn {
     display: inline;
@@ -472,25 +476,4 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     color: var(--darkcolor);
-}
-
-.star {
-  width: 1em;
-  height: auto;
-  display: inline-block;
-
-  --star-left: var(--star-filled);
-  --star-right: var(--star-empty);
-}
-
-.star.filled .star-path {
-  fill: var(--star-filled);
-}
-
-.star.empty .star-path {
-  fill: var(--star-empty);
-}
-
-.star.half .star-path {
-  fill: url(#star-half-fill);
 }
