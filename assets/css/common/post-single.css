@@ -451,6 +451,13 @@ img.in-text {
     margin: auto;
 }
 
+.post-content img[src*="#star"] { /* For star ratings on film reviews */
+    display: inline;
+    margin: auto;
+}
+
+img[src*="#center"]
+
 img.btn {
     display: inline;
     margin: auto;
