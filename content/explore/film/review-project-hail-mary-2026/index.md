@@ -18,13 +18,11 @@ TocOpen: true
 disableAnchoredHeadings: false
 ShowWordCount: true
 ---
-
-
 <table>
     <thead>
-        <td>Originally Watched</td>
-        <td>Review Written</td>
-        <td>Star Rating</td>
+        <td width="33.3333%">Originally Watched</td>
+        <td width="33.3333%">Review Written</td>
+        <td width="33.3333%">Star Rating</td>
     </thead>
     <tbody>
         <td>2026-05-11</td>
