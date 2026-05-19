@@ -22,25 +22,7 @@ ShowWordCount: true
 <a class="copy-btn" href="https://letterboxd.com/film/gentlemen-broncos/">Letterboxd</a> <a class="copy-btn" href="http://www.imdb.com/title/tt1161418/">IMDb</a> <a class="copy-btn" href="https://www.themoviedb.org/movie/22820/">TMDB</a>
 ![gentlemen-broncos.jpg](gentlemen-broncos.jpg)
 
-<div width="100%" style="text-align:center;vertical-align:bottom;background-color:var(--gray);border-radius:10px;">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
-</div>
-
-<table>
-    <tr width="100%">
-        <td width="100%" style="text-align:center;">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
-        </td>
-    </tr>
-</table>
+---
 
 <p style="text-align:center;">
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
@@ -50,7 +32,7 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
 </p>
 
-
+---
 
 Very funny, very awkward, very [Jared Hess](https://letterboxd.com/director/jared-hess/). Hess is always so good at capturing the clumsiness of human beings, in a way that feels very realistic. I believe this is part of what makes his films amusing & relatable and I really feel this come through with Gentlemen Broncos.
 
