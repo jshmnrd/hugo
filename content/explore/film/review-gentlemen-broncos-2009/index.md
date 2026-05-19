@@ -25,12 +25,14 @@ ShowWordCount: true
     <a class="copy-btn" href="http://www.imdb.com/title/tt1161418/">IMDb</a>
     &nbsp;
     <a class="copy-btn" href="https://www.themoviedb.org/movie/22820/">TMDB</a>
-    <br>
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
+    &nbsp;
+    <a class="copy-btn">
+        <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+        <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+        <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+        <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
+        <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
+    </a>
 </p>
 <hr>
 
