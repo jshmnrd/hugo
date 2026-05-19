@@ -19,27 +19,23 @@ disableAnchoredHeadings: false
 ShowWordCount: true
 #GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-grand-budapest-hotel-2014
 ---
-<a class="copy-btn" href="https://letterboxd.com/film/the-grand-budapest-hotel/">Letterboxd</a> <a class="copy-btn" href="http://www.imdb.com/title/tt2278388/">IMDb</a> <a class="copy-btn" href="https://www.themoviedb.org/movie/120467/">TMDB</a>
+<p style="text-align:center;">
+    <a class="copy-btn" href="https://letterboxd.com/film/the-grand-budapest-hotel/">Letterboxd</a>
+    &nbsp;
+    <a class="copy-btn" href="http://www.imdb.com/title/tt2278388/">IMDb</a>
+    &nbsp;
+    <a class="copy-btn" href="https://www.themoviedb.org/movie/120467/">TMDB</a>
+    <br>
+    <br>
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
+</p>
+<hr>
+
 ![Grand Budapest Hotel (2014) cover & screenshot](grand-budapest-hotel.jpg)
-<table width="100%">
-    <tr>
-        <th width="33.3333%">Originally Watched</th>
-        <th width="33.3333%">Review Written</th>
-        <th width="33.3333%">Star Rating</th>
-    </tr>
-    <tr>
-        <td>2026-04-12</td>
-        <td>2026-04-12</td>
-        <td>
-            4.5 / 5
-            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-            <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
-        </td>
-    </tr>
-</table>
 
 # Introduction
 
