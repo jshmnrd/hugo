@@ -519,7 +519,7 @@ ShowWordCount: false
 </script>
 
 <script> /* Copy to clipboard - image */
-document.querySelectorAll(".copy-img").forEach(img => {
+document.querySelectorAll(".copy-btn2").forEach(img => {
   img.addEventListener("click", () => {
     const textToCopy = img.dataset.copy;
     navigator.clipboard.writeText(textToCopy).then(() => {
