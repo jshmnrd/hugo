@@ -207,7 +207,8 @@ ShowWordCount: false
     <a href="https://minecraft.net/" target="_blank"><img class="btn" alt="Minecraft" title="Minecraft" src="minecraft.gif"></a>
     <!-- MP3 | 2026-05-16 -->
     <audio id="aah" src="aah.ogg"></audio>
-    <span onclick="document.getElementById('aah').play()" onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="MP3" title="Aah!" src="mp3com.gif"></span>
+    <audio id="wow" src="anime-wow-sound-effect.mp3"><audio>
+    <span onclick="document.getElementById('wow').play()" onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="MP3" title="Aah!" src="mp3com.gif"></span>
   <!-- alpha-N -->
     <!-- Newgrounds | 2026-05-15 -->
     <a href="https://www.newgrounds.com/" target="_blank"><img class="btn" alt="Newgrounds" title="Newgrounds" src="newground.gif"></a>
