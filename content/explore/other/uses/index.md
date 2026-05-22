@@ -15,7 +15,7 @@ editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/other/uses"
     Text: "version 02"
 showToc: true
-TocOpen: true
+TocOpen: false
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
