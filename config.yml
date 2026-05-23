@@ -69,6 +69,8 @@ params:
           buttons:
               - name: about
                 url: about/
+              - name: blog
+                url: blog/
               - name: explore
                 url: explore/
               - name: contact
