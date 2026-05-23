@@ -23,5 +23,5 @@ I made this website for fun, and to use my domain for something. It's made using
 
 
 <p class="btns">
-    <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="Created-By-a-Human-Not-By-AI-Badge-white.svg"></a>
+    <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="https://pub.jshmnrd.ca/w/svg/5001-NotByAI_White.svg"></a>
 </p>

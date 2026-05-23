@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"
 #cover:
-    #image: "andreas-rocha-readershall01.jpg"
+    #image: "https://pub.jshmnrd.ca/w/img/1002-AndreasRocha_ReadersHall.jpg"
     #alt: "“Reader's Hall” by Andreas Rocha on Artstation"
     #relative: true
     #crop: "Center"

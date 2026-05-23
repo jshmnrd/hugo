@@ -12,7 +12,7 @@ summary: "My blogroll: a list of the blogs I read."
     #relative: true
     #crop: "Center"
 editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/other/blogroll"
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/other/blogroll.md"
     Text: "version 01"
 showToc: false
 disableAnchoredHeadings: false

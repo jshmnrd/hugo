@@ -34,7 +34,8 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
 </p>
 
-![Project Hail Mary (2026) cover & screenshot](project-hail-mary.jpg)
+![Project Hail Mary (2026) cover & screenshot](https://pub.jshmnrd.ca/w/img/2008-ProjectHailMary.jpg
+)
 
 ---
 
@@ -42,7 +43,7 @@ ShowWordCount: true
 >Grace: "No."
 
 [Andy Weir](https://andyweirauthor.com/) must be one of the best sci-fi writer's of our time. Seriously.
-![](he-cant-keep-getting-away-with-it.gif)
+![](https://pub.jshmnrd.ca/w/img/2009-HeCantKeepGettingAwayWithIt.gif)
 My favourite part of Weir's stories has to be that they're remarkably believable. Like, nothing happens that I wouldn't believe is possible. I probably wouldn't believe you if you told me a bacteria was *actually* eating the *real* sun, but the way they explain it in the film and in his novel is super realistic (to a lay person like myself, at least).
 
 I think that's part of why this film is so good, why so many people are adding it to their favourite-movies-of-all-time lists, why people are saying "it's the new [Interstellar](https://letterboxd.com/film/interstellar/)". Although, casting [Ryan Gosling](https://letterboxd.com/actor/ryan-gosling/) helps. #CanadianPride

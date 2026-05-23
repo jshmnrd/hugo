@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "My review of Emperor (2012)"
 summary: "My review of Emperor (2012)"
 #cover:
-    #image: "emperor2012.jpg"
+    #image: "https://pub.jshmnrd.ca/w/img/2004-EmperorScreenshot.jpg"
     #alt: "Screenshot from the film."
     #relative: true
     #crop: "Top"
@@ -34,7 +34,7 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
 </p>
 
-![Emperor (2012) cover & screenshot](emperor.jpg)
+![Emperor (2012) cover & screenshot](https://pub.jshmnrd.ca/w/img/2003-Emperor.jpg)
 
 ---
 

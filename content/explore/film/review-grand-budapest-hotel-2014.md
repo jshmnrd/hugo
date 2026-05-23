@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."
 summary: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."
 #cover:
-    #image: "grand-budapest-hotel-2014.jpeg"
+    #image: "https://pub.jshmnrd.ca/w/img/2007-GrandBudapestHotelScreenshot.jpeg"
     #alt: "Screenshot from the film"
     #relative: true
     #crop: "Center"
@@ -17,7 +17,7 @@ showToc: false
 TocOpen: false
 disableAnchoredHeadings: false
 ShowWordCount: true
-#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-grand-budapest-hotel-2014
+#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-grand-budapest-hotel-2014.md
 ---
 <p style="text-align:center;">
     <a class="copy-btn" href="https://letterboxd.com/film/the-grand-budapest-hotel/">Letterboxd</a>
@@ -34,7 +34,7 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
 </p>
 
-![Grand Budapest Hotel (2014) cover & screenshot](grand-budapest-hotel.jpg)
+![Grand Budapest Hotel (2014) cover & screenshot](https://pub.jshmnrd.ca/w/img/2006-GrandBudapestHotel.jpg)
 
 ---
 

@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "My library"
 summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"
 #cover:
-    #image: "maethavee-kay-e-2.jpg"
+    #image: "https://pub.jshmnrd.ca/w/img/4002-MaethaveeKayE.jpg"
     #alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
     #relative: true
     #crop: "Smart"

@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "A list of websites, apps, software, etc. that I use."
 summary: "I use a bunch of software and websites and wanted to share them here."
 #cover:
-    #image: "heartbeat.gif"
+    #image: "https://pub.jshmnrd.ca/w/img/5002-Heartbeat.gif"
     #alt: "“Heartbeat” by waneella on 8bitdash"
     # src: https://www.8bitdash.com/gallery?artworkId=bd91e48a-0e15-47f4-b82c-b4311dda92ef
     #relative: true
@@ -40,7 +40,7 @@ I started hosting the site with GitHub pages because it's free, but by now it's 
 <p class="callout">**Disclaimer:** I'm not very good at coding and probably lack a lot of formalities most coders have - just don't be surprised if my repo is a mess.</p>
 
 <p class="btns">
-<a href="https://github.com/jshmnrd" target="_blank"><img class="btn" alt="GitHub" title="GitHub" src="github.gif"></a>
+<a href="https://github.com/jshmnrd" target="_blank"><img class="btn" alt="GitHub" title="GitHub" src="https://pub.jshmnrd.ca/w/btn/0079-github.gif"></a>
 </p>
 
 ## Hugo
@@ -51,8 +51,8 @@ Website framework/site generator
 Honestly, I only use Hugo because when I was looking for a website template, I stumbled upon [this list of GitHub repos](https://github.com/topics/website-template) tagged "website-template", and found [Pascal Michaillat](https://pascalmichaillat.org/)'s repo [hugo-website](https://github.com/pmichaillat/hugo-website), which is built on [Hugo](https://gohugo.io) & a theme called [Papermod](https://github.com/adityatelange/hugo-PaperMod/) by [Aditya Telange](https://adityatelange.in/).
 
 <p class="btns">
-<a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a>
-<a href="https://adityatelange.in/" target="_blank"><img class="btn" alt="Aditya Telange" title="Creator of the “Papermod” Hugo theme I'm using on this website. ✌️" src="adityatelange.png"></a>
+<a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="https://pub.jshmnrd.ca/w/btn/0059-hugo.png"></a>
+<a href="https://adityatelange.in/" target="_blank"><img class="btn" alt="Aditya Telange" title="Creator of the “Papermod” Hugo theme I'm using on this website. ✌️" src="https://pub.jshmnrd.ca/w/btn/0054-adityatelange.png"></a>
 </p>
 
 # Software
@@ -65,9 +65,9 @@ Web Browser
 I use Firefox because it's just better. I originally switched from Chrome/Safari because of Firefox's security features, but I stayed because the experience is just better. I don't really have much else to say than that.
 
 <p class="btns">
-<a href="https://killedbygoogle.com/" target="_blank"><img class="btn" alt="Anything but Chrome" title="Use Firefox!!" src="anythingbutchrome.gif"></a>
-<a href="https://www.firefox.com/" target="_blank"><img class="btn" alt="Firefox" title="Firefox" src="firefox.gif"></a>
-<a href="https://www.firefox.com/" target="_blank"><img class="btn" alt="Get Firefox" title="Get Firefox" src="getfirefox.gif"></a>
+<a href="https://killedbygoogle.com/" target="_blank"><img class="btn" alt="Anything but Chrome" title="Use Firefox!!" src="https://pub.jshmnrd.ca/w/btn/0084-anythingbutchrome.gif"></a>
+<a href="https://www.firefox.com/" target="_blank"><img class="btn" alt="Firefox" title="Firefox" src="https://pub.jshmnrd.ca/w/btn/0003-firefox.gif"></a>
+<a href="https://www.firefox.com/" target="_blank"><img class="btn" alt="Get Firefox" title="Get Firefox" src="gethttps://pub.jshmnrd.ca/w/btn/0064-getfirefox.gif"></a>
 </p>
 
 ## Visual Studio Code
@@ -78,7 +78,7 @@ Code editor
 I use VSCode because it's the name I knew before I *knew* anything. I'd heard it here and there in the past. To be honest I haven't tried any alternatives and don't plan to - VSCode works great and I've no complaints.
 
 <p class="btns">
-<a href="https://code.visualstudio.com/" target="_blank"><img class="btn" alt="VSCode" title="VSCode" src="vscode.gif"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img class="btn" alt="VSCode" title="VSCode" src="https://pub.jshmnrd.ca/w/btn/0104-vscode.gif"></a>
 </p>
 
 ## GitHub Desktop
@@ -89,7 +89,7 @@ Updating this website.
 Paired with VS Code to handle updates to website code. There's an expension in VSCode that shows you what files have been changed/added but not committed/pushed to the repository. I find this quite helpful.
 
 <p class="btns">
-<a href="https://github.com/jshmnrd" target="_blank"><img class="btn" alt="GitHub" title="GitHub" src="github.gif"></a>
+<a href="https://github.com/jshmnrd" target="_blank"><img class="btn" alt="GitHub" title="GitHub" src="https://pub.jshmnrd.ca/w/btn/0079-github.gif"></a>
 </p>
 
 # Devices

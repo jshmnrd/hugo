@@ -17,7 +17,7 @@ showToc: false
 TocOpen: false
 disableAnchoredHeadings: false
 ShowWordCount: true
-#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-project-hail-mary-2026
+#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-gentlemen-broncos-2009.md
 ---
 <p style="text-align:center" >
     <a class="copy-btn" href="https://letterboxd.com/film/gentlemen-broncos/">Letterboxd</a>
@@ -34,7 +34,7 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
 </p>
 
-![gentlemen-broncos.jpg](gentlemen-broncos.jpg)
+![gentlemen-broncos.jpg](https://pub.jshmnrd.ca/w/img/2005-GentlemenBroncos.jpg)
 
 ---
 

@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons tools"
 summary: "This page contains links to Dungeons & Dragons tools"
 #cover:
-    #image: "envar-studio-ornnsforge-final.jpg"
+    #image: "https://pub.jshmnrd.ca/w/img/1003-EnvarStudio_OrnnsForge.jpg"
     #alt: "“Ornn's Forge” by Envar Studio on Artstation"
     #relative: true
     #crop: "Center"

@@ -206,8 +206,8 @@ ShowWordCount: false
     <!-- Minecraft | 2026-05-16 -->
     <a href="https://minecraft.net/" target="_blank"><img class="btn" alt="Minecraft" title="Minecraft" src="minecraft.gif"></a>
     <!-- MP3 | 2026-05-16 -->
-    <audio id="aah" src="aah.ogg"></audio>
-    <audio id="wow" src="anime-wow-sound-effect.mp3"></audio>
+    <audio id="aah" src="https://pub.jshmnrd.ca/w/audio/5001-aah.ogg"></audio>
+    <audio id="wow" src="https://pub.jshmnrd.ca/w/audio/5004-AnimeWow.mp3"></audio>
     <span onclick="document.getElementById('wow').play()" onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="MP3" title="Aah!" src="mp3com.gif"></span>
   <!-- alpha-N -->
     <!-- Newgrounds | 2026-05-15 -->
@@ -474,7 +474,7 @@ ShowWordCount: false
     <!-- Korn | 2026-05-16 -->
     <a href="https://kornofficial.com/" target="_blank"><img class="btn" alt="Korn" title="Korn" src="korn.png"></a>
     <!-- MP3 | 2026-05-16 -->
-    <audio id="aah" src="aah.ogg"></audio>
+    <audio id="aah" src="https://pub.jshmnrd.ca/w/audio/5001-aah.ogg"></audio>
     <span onclick="document.getElementById('aah').play()" onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="MP3" title="Aah!" src="mp3com.gif"></span>
     <!-- RSS | 2026-05-16 -->
     <a href="https://jshmnrd.ca/index.xml" target="_blank"><img class="btn" alt="RSS" title="RSS feed" src="rss.gif"></a>
