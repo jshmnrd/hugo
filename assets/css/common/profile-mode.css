@@ -84,4 +84,5 @@ a.copy-btn:hover {
 
 .hide {
     visibility: hidden;
+    max-height: 0;
 }
