@@ -143,3 +143,8 @@ pre:hover .copy-code {
     border: 2px solid #270009;
     background-color: #c2002f;
 }
+.callout.lt-red {
+    color: #270009;
+    border: 2px solid #c2002f;
+    background-color: #ffc0cf;
+}

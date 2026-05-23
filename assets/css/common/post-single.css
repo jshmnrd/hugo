@@ -45,6 +45,7 @@
 }
 
 .post-content p.h1 { /* When you want h1 style but not h1 status */
+    font-weight: 700;
     margin: 40px auto 32px;
     font-size: 40px;
 }
@@ -55,6 +56,7 @@
 }
 
 .post-content p.h2 { /* When you want h2 style but not h2 status */
+    font-weight: 700;
     margin: 32px auto 24px;
     font-size: 24px;
 }
@@ -64,6 +66,7 @@
 }
 
 .post-content p.h3 { /* When you want h3 style but not h3 status */
+    font-weight: 700;
     font-size: 19px;
 }
 

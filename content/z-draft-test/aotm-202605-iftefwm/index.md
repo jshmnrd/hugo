@@ -23,7 +23,7 @@ ShowWordCount: yes
 
 <p class="h1">
     <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore
-    <img src="/static/explicit.svg">
+    <img class="inline" src="https://jshmnrd.ca/static/explicit.svg">
 </p>
 
 <a class="copy-btn" href="https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw?si=jJ3w3EonSHGpAyjZVLHHyg" target="_blank">Spotify</a>&emsp;
@@ -33,42 +33,43 @@ ShowWordCount: yes
 <a class="copy-btn" href="https://musicboard.app/album/i-feel-the-everblack-festering-within-me/lorna-shore/" target="_blank">Musicboard</a>&emsp;
 <a class="copy-btn" href="https://lornashoreband.com/" target="_blank">Website</a>
 
-<img style="max-width:75%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj#center">
+<img style="max-width:70%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj">
 
 <p class="h2"> My Rating: 4.5/5
-    <img class="inline" src="/static/stars/fill.svg">
-    <img class="inline" src="/static/stars/fill.svg">
-    <img class="inline" src="/static/stars/fill.svg">
-    <img class="inline" src="/static/stars/fill.svg">
-    <img class="inline" src="/static/stars/half.svg">
+    <img class="inline" src="https://jshmnrd.ca/static/stars/fill.svg">
+    <img class="inline" src="https://jshmnrd.ca/static/stars/fill.svg">
+    <img class="inline" src="https://jshmnrd.ca/static/stars/fill.svg">
+    <img class="inline" src="https://jshmnrd.ca/static/stars/fill.svg">
+    <img class="inline" src="https://jshmnrd.ca/static/stars/half.svg">
 </p>
 
-<p class="h4"><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">Album Statistics</a></p>
+<p class="h4">Album Statistics</p>
 <table>
     <tr>
-        <th>Released:</th>
+        <td><b>Released:</b></td>
         <td><span title="September 12, 2025">2025-09-12</span></td>
     </tr>
     <tr>
-        <th>Genre:</th>
+        <td><b>Genre:</b></td>
         <td>Deathcore, symphonic deathcore, extreme metal</td>
     </tr>
     <tr>
-        <th>Length:</th>
+        <td><b>Length:</b></td>
         <td>66 hours, 27 minutes</td>
     </tr>
     <tr>
-        <th>Label:</th>
+        <td><b>Label:</b></td>
         <td>Century Media</td>
     </tr>
 </table>
+<small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small>
 
 ## Introduction
 I've been a metal fan for a long time. Years and year and years. Never have I had an experience like this. How? I have no idea.
 
 I feel as though I <s>was kept</s> kept myself in the dark for so long, this album felt like a fresh experience - a rare thing for me these days!
 
-<p class="callout red">
+<p class="callout lt-red">
     <b>Disclaimer:</b><br>
     Not everyone who reads this will enjoy this album, <u>and that's okay!</u> Metal is an acquired taste to begin with, but this especially is a tough pill for the "uninitiated".I'd encourage everyone who reads this to give it a shot - <i>who knows, you might like it!</i>
 </p>
@@ -101,8 +102,9 @@ Anyways, I just found it really impressive that Will can (I assume) safely do al
 
 Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
 
-#### Trauma-dump
-My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.
+<details style="cursor:pointer;"><summary>Trauma Dump</summary>
+    <span style="cursor:auto;">My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.</span>
+</details>
 
 ## 2. Oblivion
 <a class="copy-btn" href="https://genius.com/Lorna-shore-oblivion-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292944" target="_blank" title="Genius">Song Bio</a>
@@ -130,20 +132,33 @@ It's not bad by any means, I just enjoyed the other tracks more.
 ## 4. Unbreakable
 <a class="copy-btn" href="https://genius.com/Lorna-shore-unbreakable-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292983" target="_blank" title="Genius">Song Bio</a>
 
-In line with [In Darkness](#3-in-darkness), this track sounds to me like a celebration of human resilience.
+I liked the grandness of this song, a very big feeling behind it that I understand was intentional from the band.
 
-But there's more to it. It's almost like it also wants to be an anthem of 'the people', almost like sticking it to the man(?) Maybe I'm projecting there, but I hope this is the case.
+Despite this, like [In Darkness](#3-in-darkness), this track was really filler to me, unfortunately.
 
-## 5. Glenwood ★
+I like the message and feeling behind it, but compared to the songs around it, I just didn't feel the same. Again, not bad by any means, in fact I like it better than [In Darkness](#3-in-darkness), but just not stand-out awesome like the others.
+
+<h2 id="5-glenwood">5. Glenwood <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
 <a class="copy-btn" href="https://genius.com/Lorna-shore-glenwood-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292984" target="_blank" title="Genius">Song Bio</a>
 
 This is my favourite track in the entire album. It was the first song I heard, yes, but I really like it the most.
 
-My first listen I was all about the music. My second listen I paid better attention to the lyrics, <span title="if you know, you know">got nowhere</span> and then went to Genius.
+The music has a really hopeful sort of feel to it, almost conforting.
 
-The lyrics really resonate with me. I have a lot of things I wish I'd done differently. Interactions I should've handled better, decisions I regret, bridges I wish I'd never burned.Glenwood makes me feel like I'm not alone in that feeling of wishing I couldn't made different decisions in my past.
+I've thought a lot about it lately and I've concluded that for me, the melody of *Glenwood* makes me feel two main things:
+1.  **Nostalgia.**  
+    Nostalgia for a time in my life when everything was okay and I was super happy all the time. The "good ol' days" if you will.  
+    It's uplifting in this way, as if to say like "hey, everything will be fine in the end". 
+2.  **Regret.**  
+    It makes me think back to all the things I wish I'd done differently. Interactions I should've handled better, decisions I regret, bridges I wish I'd never burned.  
+    It makes me feel like I'm not alone in that feeling of wishing I couldn't made different decisions in my past.
 
-I also get a nostalgic feeling when listening to this song. You know, the "good ol' days" or whatever. It seems strange now and you'dve called me crazy back then, but I'm very nostalgic for my childhood in the 2000s. The song didn't remind me of that time, but of the sentiment of "can we go back to how it used to be".
+<details style="cursor:pointer;"><summary>Trauma Dump</summary>
+    <span style="cursor:auto;">
+        I know a thing or two about not getting along with my parents. I can't say any more than that.
+        <p class="callout red">By the way, if you know me personally, please don't make a thing of this. Thanks</p>
+    </span>
+</details>
 
 ## 6. Lionheart
 <a class="copy-btn" href="https://genius.com/Lorna-shore-lionheart-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292985" target="_blank" title="Genius">Song Bio</a>
