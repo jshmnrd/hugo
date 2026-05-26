@@ -27,11 +27,11 @@ ShowWordCount: true
     <a class="copy-btn" href="https://www.themoviedb.org/movie/687163/">TMDB</a>
     <br>
     <br>
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/w/svg/2003-Star_Half.svg">
 </p>
 
 ![Project Hail Mary (2026) cover & screenshot](https://pub.jshmnrd.ca/w/img/2008-ProjectHailMary.jpg
