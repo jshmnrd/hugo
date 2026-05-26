@@ -46,7 +46,7 @@ ShowWordCount: yes
 <img style="max-width:70%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj">
 
 <h2> My Rating: 4.5/5</h2>
-<p style="text-align:center" >
+<p>
     <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
