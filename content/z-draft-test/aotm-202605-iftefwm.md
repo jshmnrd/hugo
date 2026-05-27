@@ -93,12 +93,15 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+@font-face {
+    font-family: Heartless;
+    src: url(https://pub.jshmnrd.ca/w/font/heartless/Heartless.ttf);
+}
 </style>
 
-The outro to this song is friggin' <span style="font-family:'Eater','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!
+The outro to this song is friggin' <span style="font-family:'Heartless','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!
 
-![](https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif)
+<img src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
 Will even says in the [song bio](https://genius.com/35292981),  
 >"We took all the heaviest stuff we had, to create this incredibly dark, high-stress/tension song."
