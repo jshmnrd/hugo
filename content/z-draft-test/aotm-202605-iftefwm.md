@@ -99,9 +99,11 @@ The build up at the start is fantastic, it builds anticipation really well. Not 
 }
 </style>
 
-The outro to this song is friggin' <span title="GRODY" style="font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!
+<p>The outro to this song is friggin'...</p>
+<p class="h1" title="GRODY" style="font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</p>
+<p>Makes you want to put your head through the floor!</p>
 
-<img style="max-height:20%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
+<img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
 
 Will even says in the [song bio](https://genius.com/35292981),  
 >"We took all the heaviest stuff we had, to create this incredibly dark, high-stress/tension song."
