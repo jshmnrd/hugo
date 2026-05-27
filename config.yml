@@ -62,7 +62,7 @@ params:
     profileMode:
           enabled: true
           title: Joshua Maynard
-          subtitle: "I am a 25 year old from Toronto, Canada. I'm a geek. I love movies, TV, Dungeons & Dragons and pretty much anything computer-related."
+          subtitle: "I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related."
           imageUrl: "jm-transparent.PNG"
           imageWidth: 160
           imageHeight: 160
