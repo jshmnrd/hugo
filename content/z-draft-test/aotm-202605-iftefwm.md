@@ -34,7 +34,7 @@ ShowWordCount: yes
 
 <img style="max-width:60%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj#center">
 
-<p class="h2">My Rating: 4.5/5
+<p class="h2" style="text-align:center;">My Rating: 4.5/5
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
@@ -90,7 +90,15 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 
 <b><i>What an opening to an album!</i></b>
 
-The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent! I think he runs the gammit of vocal types in this song alone! If you listen you'll know exactly what I'm talking about, towards the end of the song during the outro.
+The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+</style>
+
+The outro to this song is friggin' <span style="font-family:'Eater','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!
+
+![](https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif)
 
 Will even says in the [song bio](https://genius.com/35292981),  
 >"We took all the heaviest stuff we had, to create this incredibly dark, high-stress/tension song."
