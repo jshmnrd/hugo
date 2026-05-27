@@ -32,8 +32,7 @@ ShowWordCount: yes
 </h1>
 
 <p class="h1">
-    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore
-    <img class="inline" src="https://pub.jshmnrd.ca/w/svg/3001-ExplicitIcon.svg">
+    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore&emsp;<img class="inline" src="https://pub.jshmnrd.ca/w/svg/3001-ExplicitIcon.svg">
 </p>
 
 <a class="copy-btn" href="https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw?si=jJ3w3EonSHGpAyjZVLHHyg" target="_blank">Spotify</a>&emsp;

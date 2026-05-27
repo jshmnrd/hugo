@@ -50,6 +50,14 @@
     font-size: 40px;
 }
 
+.post-content p.h1 img {
+    display: inline;
+    margin: auto;
+    vertical-align: -0.25em;
+    max-height: 1em;
+    max-width: auto;
+}
+
 .post-content h2 {
     margin: 32px auto 24px;
     font-size: 24px;
