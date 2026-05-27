@@ -95,13 +95,13 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 }
 </style>
 
-<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="font-size:24px;font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span><br>Makes you want to put your head through the floor!</p>
+<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="font-size:40px;font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span><br>Makes you want to put your head through the floor!</p>
+
+<img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
 
 <b><i>What an opening to an album!</i></b>
 
 The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
-
-<img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
 
 Will says in the [song bio](https://genius.com/35292981),  
 >"We took all the heaviest stuff we had, to create this incredibly dark, high-stress/tension song."
@@ -116,10 +116,10 @@ Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
     <span style="cursor:auto;">My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.</span>
 </details>
 
-## 2. Oblivion
+<h2 id="2-oblivion">2. Oblivion <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
 <a class="copy-btn" href="https://genius.com/Lorna-shore-oblivion-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292944" target="_blank" title="Genius">Song Bio</a>
 
-Yeah, there's a reason they released this early as a single. It's a close second-place on this album for me!
+Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review [Glenwood](#5-glenwood) was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.
 
 <img style="max-width:50%;" src="https://cdn.mos.cms.futurecdn.net/RNkGDQtvnzgqJeASKPQN5k.jpg">
 
@@ -148,7 +148,7 @@ Despite this, like [In Darkness](#3-in-darkness), this track was really filler t
 
 I like the message and feeling behind it, but compared to the songs around it, I just didn't feel the same. Again, not bad by any means, in fact I like it better than [In Darkness](#3-in-darkness), but just not stand-out awesome like the others.
 
-<h2 id="5-glenwood">5. Glenwood <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
+## 5. Glenwood
 <a class="copy-btn" href="https://genius.com/Lorna-shore-glenwood-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292984" target="_blank" title="Genius">Song Bio</a>
 
 This is my favourite track in the entire album. It was the first song I heard, yes, but I really like it the most.
