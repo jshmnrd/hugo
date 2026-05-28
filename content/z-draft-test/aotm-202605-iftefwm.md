@@ -46,10 +46,10 @@ ShowWordCount: yes
 
 <table style="text-align:center;">
     <tr>
-        <th style="text-align:center;">Released</th>
-        <th style="text-align:center;">Genre</th>
-        <th style="text-align:center;">Length</th>
-        <th style="text-align:center;">Label</th>
+        <th width="20%" style="text-align:center;">Released</th>
+        <th width="20%" style="text-align:center;">Genres</th>
+        <th width="40%" style="text-align:center;">Length</th>
+        <th width="20%" style="text-align:center;">Label</th>
     </tr>
     <tr>
         <td><span title="September 12, 2025">2025-09-12</span></td>
