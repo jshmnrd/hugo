@@ -101,13 +101,10 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 <b><i>What an opening to an album!</i></b>
 
 <style>
-@font-face {
-    font-family: BlackGoth;
-    src: url(https://pub.jshmnrd.ca/w/font/black-goth/BlackGoth-Reguler.otf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Astloch:wght@400;700&display=swap');
 </style>
 
-<p>The outro to this song is friggin' <span title="GRODY" style="font-size:1.125em;font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
+<p>The outro to this song is friggin' <span title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
