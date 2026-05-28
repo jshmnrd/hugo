@@ -68,7 +68,7 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
 <p class="br-h2">Meadow</p>
 <p>
   <b>Website:</b>
-  <a href="#" target="_blank">Meadow.cafe</a>
+  <a href="https://meadow.cafe/" target="_blank">Meadow.cafe</a>
   <br>&emsp;&emsp;&emsp;
   <b>Feed:</b>
   <a href="https://meadow.cafe/feeds/" target="_blank">meadow.cafe/feed</a>
