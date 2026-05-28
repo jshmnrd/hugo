@@ -24,43 +24,80 @@ This is my [blogroll](https://indieweb.org/blogroll), a collection of the blogs 
 
 I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reader. You can check out my [blogroll there](https://mire.meadow.cafe/u/jshmnrd/blogroll) too.
 
-<ul>
+<h2>Aditya Telange</h2><br>
+<b>Website:</b> <a href="https://adityatelange.in" target="_blank">AdityaTelange.in</a><br>
+&emsp;&emsp;&emsp;<a href="#!" data-copy="https://adityatelange.in/index.xml">AdityaTelange.in/index.xml</a>
+&emsp;&emsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">copy</button>
+
+<ul hidden>
   <li> <!-- Aditya Telange -->
     <a href="https://adityatelange.in/" target="_blank">Aditya Telange</a>
     &emsp;&emsp;
     <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
   </li>
-
   <li> <!-- Arduin Findeis -->
     <a href="https://arduin.io/" target="_blank">Arduin Findeis</a>
     &emsp;
     <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
   </li>
-
   <li> <!-- James -->
     <button class="copy-btn" data-copy="https://jamesg.blog/feeds/posts.xml">feed</button>
     &emsp;&emsp;
     <a href="https://jamesg.blog/" target="_blank">James' Coffee Blog</a>
   </li>
-
   <li> <!-- Meadow -->
     <button class="copy-btn" data-copy="https://meadow.cafe/feeds/main_rss.xml">feed</button>
     &emsp;&emsp;
     <a href="https://meadow.cafe/" target="_blank">Meadow</a>
   </li>
-
   <li> <!-- Robert Birming-->
     <button class="copy-btn" data-copy="https://robertbirming.com/feed/">feed</button>
     &emsp;&emsp;
     <a href="https://robertbirming.com/" target="_blank">Robert Birming</a>
   </li>
-
   <li> <!-- Toska -->
     <button class="copy-btn" data-copy="https://toska.bearblog.dev/feed/?type=rss">feed</button>
     &emsp;&emsp;
     <a href="https://toska.bearblog.dev/" target="_blank">Toska</a>
   </li>
+  <li> <!-- Zakhary -->
+    <button class="copy-btn" data-copy="https://zakhary.dev/feed.xml">feed</button>
+    &emsp;&emsp;
+    <a href="https://zakhary.dev/" target="_blank">Zakhary</a>
+  </li>
+</ul>
 
+<ul hidden>
+  <li> <!-- Aditya Telange -->
+    <a href="https://adityatelange.in/" target="_blank">Aditya Telange</a>
+    &emsp;&emsp;
+    <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
+  </li>
+  <li> <!-- Arduin Findeis -->
+    <a href="https://arduin.io/" target="_blank">Arduin Findeis</a>
+    &emsp;
+    <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
+  </li>
+  <li> <!-- James -->
+    <button class="copy-btn" data-copy="https://jamesg.blog/feeds/posts.xml">feed</button>
+    &emsp;&emsp;
+    <a href="https://jamesg.blog/" target="_blank">James' Coffee Blog</a>
+  </li>
+  <li> <!-- Meadow -->
+    <button class="copy-btn" data-copy="https://meadow.cafe/feeds/main_rss.xml">feed</button>
+    &emsp;&emsp;
+    <a href="https://meadow.cafe/" target="_blank">Meadow</a>
+  </li>
+  <li> <!-- Robert Birming-->
+    <button class="copy-btn" data-copy="https://robertbirming.com/feed/">feed</button>
+    &emsp;&emsp;
+    <a href="https://robertbirming.com/" target="_blank">Robert Birming</a>
+  </li>
+  <li> <!-- Toska -->
+    <button class="copy-btn" data-copy="https://toska.bearblog.dev/feed/?type=rss">feed</button>
+    &emsp;&emsp;
+    <a href="https://toska.bearblog.dev/" target="_blank">Toska</a>
+  </li>
   <li> <!-- Zakhary -->
     <button class="copy-btn" data-copy="https://zakhary.dev/feed.xml">feed</button>
     &emsp;&emsp;
