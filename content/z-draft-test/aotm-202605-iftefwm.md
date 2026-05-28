@@ -57,10 +57,8 @@ ShowWordCount: yes
         <td width="20%" >66 hrs, 27 mins</td>
         <td width="20%" >Century Media</td>
     </tr>
-    <tr>
-        <td colspan="4"><small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small></td>
-    </tr>
 </table>
+<small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small>
 
 ## Introduction
 I've been a metal fan for a long time. Years and year and years. Never have I had an experience like this. How? I have no idea.
@@ -84,8 +82,6 @@ From the first time I heard [Glenwood](#5-glenwood-), I was hooked. I listed to 
 
 Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-depth or meaningful review, but I hope you enjoy reading it regardless! I focus mainly on the words because I just have no insight on what makes deathcore instrumentals 'good' and feel I'd be out of line commenting on it.
 
-<!--width="200" height="87"-->
-
 <p style="text-align:center;">
 <svg viewBox="0 0 400 174" width="50%" height="auto" xmlns="http://www.w3.org/2000/svg">
   <title>Lorna Shore Logo</title>
@@ -107,7 +103,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 @import url('https://fonts.googleapis.com/css2?family=Astloch:wght@400;700&display=swap');
 </style>
 
-<p>The outro to this song is friggin' <span title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;font-weight:700;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
+<p>The outro to this song is friggin' <span id="imageMedium" onmouseover="showImage('imageMedium','https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif')" onmouseout="hideImage('imageMedium')" onclick="tellToHover()" title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;font-weight:700;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
@@ -211,6 +207,27 @@ _
 
 My biggest takeaway from this album is that it's very poetic! I know music in general is poetry, but had I only read the lyrics without the music I'dve thought it was very good poetry! Which is true, it is!
 
----
-
-Oh, and their logo is kick-ass!
+<script> // Image Pop-up
+    function showImage(elemId, imgSrc) {
+        console.log("Mouse is over text");
+        console.log("\tElemId:" + elemId + " Image Source:" + imgSrc);
+        const elem = document.getElementById(elemId);
+        const popImage = new Image();
+        popImage.src = imgSrc;
+        popImage.style.position = "absolute";
+        popImage.style.zIndex = "1";
+        elem.appendChild(popImage);
+    }
+    function hideImage(elemId) {
+        console.log("Mouse is off text");
+        console.log("\tElemId:" + elemId);
+        const elem = document.getElementById(elemId);
+        while (elem.childElementCount > 0) {
+            elem.removeChild(elem.lastChild);
+        }
+    }
+    function tellToHover() {
+        alert("Hover over the button for the image to appear, no need to press it!");
+    }
+    // Code source: https://happysnailprogramming.com/2020/08/11/pop-up-images-how-to-make-an-image-appear-when-hovering-over-text-using-javascript-and-html/
+</script>
