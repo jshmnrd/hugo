@@ -44,10 +44,7 @@ ShowWordCount: yes
 
 <table style="text-align:center;">
     <tr>
-        <td><p class="h4">Album Statistics</p></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="4"><p class="h4">Album Statistics</p></td>
     </tr>
     <tr>
         <th style="text-align:center;">Released</th>
@@ -62,10 +59,7 @@ ShowWordCount: yes
         <td>Century Media</td>
     </tr>
     <tr>
-        <td><small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="4" style="text-align:left;"><small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small></td>
     </tr>
 </table>
 
