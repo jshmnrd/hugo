@@ -1,3 +1,7 @@
+---
+title: "Elements"
+layout: "dev"
+---
 <ul>
     <li>
         <a href="#text">Text</a>
