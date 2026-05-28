@@ -103,7 +103,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 @import url('https://fonts.googleapis.com/css2?family=Astloch:wght@400;700&display=swap');
 </style>
 
-<p>The outro to this song is friggin' <span id="imageMedium" onmouseover="showImage('imageSmall','https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif')" onmouseout="hideImage('imageSmall')" onclick="tellToHover()" title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;font-weight:700;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
+<p>The outro to this song is friggin' <span id="imageSmall" onmouseover="showImage('imageSmall','https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif')" onmouseout="hideImage('imageSmall')" onclick="tellToHover()" title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;font-weight:700;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
 
 The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
 
@@ -225,7 +225,7 @@ My biggest takeaway from this album is that it's very poetic! I know music in ge
         }
     }
     function tellToHover() {
-        alert("Hover over the button for the image to appear, no need to press it!");
+        alert("🤘");
     }
     // Code source: https://happysnailprogramming.com/2020/08/11/pop-up-images-how-to-make-an-image-appear-when-hovering-over-text-using-javascript-and-html/
 </script>
