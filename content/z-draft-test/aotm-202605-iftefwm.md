@@ -44,9 +44,6 @@ ShowWordCount: yes
 
 <table style="text-align:center;">
     <tr>
-        <td colspan="4" style="text-align:left;"><p class="h4">Album Statistics</p></td>
-    </tr>
-    <tr>
         <th style="text-align:center;">Released</th>
         <th style="text-align:center;">Genre</th>
         <th style="text-align:center;">Length</th>
@@ -59,30 +56,9 @@ ShowWordCount: yes
         <td>Century Media</td>
     </tr>
     <tr>
-        <td colspan="4" style="text-align:left;"><small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small></td>
+        <td colspan="4"><small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small></td>
     </tr>
 </table>
-
-<p class="h4">Album Statistics</p>
-<table>
-    <tr>
-        <td><b>Released:</b></td>
-        <td><span title="September 12, 2025">2025-09-12</span></td>
-    </tr>
-    <tr>
-        <td><b>Genre:</b></td>
-        <td>Deathcore, symphonic deathcore, extreme metal</td>
-    </tr>
-    <tr>
-        <td><b>Length:</b></td>
-        <td>66 hours, 27 minutes</td>
-    </tr>
-    <tr>
-        <td><b>Label:</b></td>
-        <td>Century Media</td>
-    </tr>
-</table>
-<small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small>
 
 ## Introduction
 I've been a metal fan for a long time. Years and year and years. Never have I had an experience like this. How? I have no idea.
