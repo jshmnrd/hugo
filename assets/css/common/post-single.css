@@ -300,8 +300,7 @@
 }
 
 .post-content svg.center {
-    /*margin: 1rem auto;*/
-    text-align:center;
+    margin: 1rem auto;
 }
 
 .post-content p.btns {
