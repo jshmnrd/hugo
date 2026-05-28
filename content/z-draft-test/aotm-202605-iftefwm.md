@@ -103,9 +103,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 @import url('https://fonts.googleapis.com/css2?family=Astloch:wght@400;700&display=swap');
 </style>
 
-<p>The outro to this song is friggin' <span id="imageMedium" onmouseover="showImage('imageMedium','https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif')" onmouseout="hideImage('imageMedium')" onclick="tellToHover()" title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;font-weight:700;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
-
-<img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
+<p>The outro to this song is friggin' <span id="imageMedium" onmouseover="showImage('imageSmall','https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif')" onmouseout="hideImage('imageSmall')" onclick="tellToHover()" title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;font-weight:700;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
 
 The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
 
