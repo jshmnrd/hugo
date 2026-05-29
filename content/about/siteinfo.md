@@ -2,7 +2,7 @@
 title: "Site Info"
 description: "Information about this website."
 layout: "dev"
-ShowToc: false
+ShowToc: true
 build:
   list: never
 ---
