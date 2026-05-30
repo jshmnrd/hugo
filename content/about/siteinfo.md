@@ -9,7 +9,7 @@ build:
 
 # Site Info
 
-<h4>Summary</h4>
+### Summary
 <table>
     <tr>
         <th width="50%" colspan="2">Section</th>
@@ -19,25 +19,25 @@ build:
     <tr>
         <td width="25%"><b>Site hosting</b></td>
         <td width="25%">GitHub Pages</td>
-        <td width="25%"><code>$ 0.00 </code>/yr</td>
+        <td width="25%"><code>$ 0.00</code> /yr</td>
         <td width="25%"><a class="copy-btn" href="#site-hosting">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Domain registrar</b></td>
         <td width="25%">Porkbun</td>
-        <td width="25%"><code>$13.00 </code>/yr</td>
+        <td width="25%"><code>$13.00</code> /yr</td>
         <td width="25%"><a class="copy-btn" href="#domain-registrar">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Framework</b></td>
         <td width="25%">Hugo</td>
-        <td width="25%"><code>$ 0.00 </code>/yr</td>
+        <td width="25%"><code>$ 0.00</code> /yr</td>
         <td width="25%"><a class="copy-btn" href="#framework">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Theme</b></td>
         <td width="25%">PaperMod</td>
-        <td width="25%"><code>$ 0.00 </code>/yr</td>
+        <td width="25%"><code>$ 0.00</code> /yr</td>
         <td width="25%"><a class="copy-btn" href="#theme">Jump to section ↓</a></td>
     </tr>
 </table>
