@@ -13,9 +13,15 @@ disableAnchoredHeadings: false
 ShowWordCount: false
 layout: dev
 ---
-```UPDATED: 2026-05-27```
-# Blogroll
-^[OPML Download](https://pub.jshmnrd.ca/w/share/0001-blogroll.opml)^
+<h1>Blogroll</h1>
+<table>
+  <tr>
+    <td width="50%"><code>Updated: 2026-05-27</code></td>
+    <td width="50%" style="text-align:right;"><a href="https://pub.jshmnrd.ca/w/share/0001-blogroll.opml" target="_blank">OPML Download</a></td>
+  </tr>
+</table>
+
+<br>
 
 <style>
   .post-content p.br-h2 {
