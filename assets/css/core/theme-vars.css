@@ -34,6 +34,8 @@
     --opposite: rgb(0, 0, 0);
     */
 
+    /* future option: https://colorffy.com/dark-theme-generator?colors=%233d9268&success=%237dff95&warning=%23ffbc5e&danger=%23ff8080&info=%2387d1ff&primaryCount=6&surfaceCount=6 */
+
     /* dark colours */
     --theme: rgb(29, 30, 32);
     --entry: rgb(46, 46, 51);
